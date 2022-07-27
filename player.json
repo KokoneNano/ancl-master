@@ -1,0 +1,1040 @@
+[
+  {
+    "pLv": 1,
+    "maxSt": 20,
+    "requireExp": 0,
+    "totalExp": 0
+  },
+  {
+    "pLv": 2,
+    "maxSt": 21,
+    "requireExp": 7,
+    "totalExp": 7
+  },
+  {
+    "pLv": 3,
+    "maxSt": 22,
+    "requireExp": 10,
+    "totalExp": 17
+  },
+  {
+    "pLv": 4,
+    "maxSt": 23,
+    "requireExp": 13,
+    "totalExp": 30
+  },
+  {
+    "pLv": 5,
+    "maxSt": 24,
+    "requireExp": 18,
+    "totalExp": 48
+  },
+  {
+    "pLv": 6,
+    "maxSt": 25,
+    "requireExp": 20,
+    "totalExp": 68
+  },
+  {
+    "pLv": 7,
+    "maxSt": 26,
+    "requireExp": 22,
+    "totalExp": 90
+  },
+  {
+    "pLv": 8,
+    "maxSt": 27,
+    "requireExp": 25,
+    "totalExp": 115
+  },
+  {
+    "pLv": 9,
+    "maxSt": 28,
+    "requireExp": 30,
+    "totalExp": 145
+  },
+  {
+    "pLv": 10,
+    "maxSt": 29,
+    "requireExp": 35,
+    "totalExp": 180
+  },
+  {
+    "pLv": 11,
+    "maxSt": 30,
+    "requireExp": 40,
+    "totalExp": 220
+  },
+  {
+    "pLv": 12,
+    "maxSt": 31,
+    "requireExp": 45,
+    "totalExp": 265
+  },
+  {
+    "pLv": 13,
+    "maxSt": 32,
+    "requireExp": 50,
+    "totalExp": 315
+  },
+  {
+    "pLv": 14,
+    "maxSt": 33,
+    "requireExp": 60,
+    "totalExp": 375
+  },
+  {
+    "pLv": 15,
+    "maxSt": 34,
+    "requireExp": 65,
+    "totalExp": 440
+  },
+  {
+    "pLv": 16,
+    "maxSt": 36,
+    "requireExp": 70,
+    "totalExp": 510
+  },
+  {
+    "pLv": 17,
+    "maxSt": 37,
+    "requireExp": 75,
+    "totalExp": 585
+  },
+  {
+    "pLv": 18,
+    "maxSt": 39,
+    "requireExp": 80,
+    "totalExp": 665
+  },
+  {
+    "pLv": 19,
+    "maxSt": 42,
+    "requireExp": 85,
+    "totalExp": 750
+  },
+  {
+    "pLv": 20,
+    "maxSt": 45,
+    "requireExp": 90,
+    "totalExp": 840
+  },
+  {
+    "pLv": 21,
+    "maxSt": 49,
+    "requireExp": 95,
+    "totalExp": 935
+  },
+  {
+    "pLv": 22,
+    "maxSt": 55,
+    "requireExp": 100,
+    "totalExp": 1035
+  },
+  {
+    "pLv": 23,
+    "maxSt": 61,
+    "requireExp": 105,
+    "totalExp": 1140
+  },
+  {
+    "pLv": 24,
+    "maxSt": 68,
+    "requireExp": 110,
+    "totalExp": 1250
+  },
+  {
+    "pLv": 25,
+    "maxSt": 73,
+    "requireExp": 115,
+    "totalExp": 1365
+  },
+  {
+    "pLv": 26,
+    "maxSt": 78,
+    "requireExp": 120,
+    "totalExp": 1485
+  },
+  {
+    "pLv": 27,
+    "maxSt": 82,
+    "requireExp": 125,
+    "totalExp": 1610
+  },
+  {
+    "pLv": 28,
+    "maxSt": 84,
+    "requireExp": 130,
+    "totalExp": 1740
+  },
+  {
+    "pLv": 29,
+    "maxSt": 86,
+    "requireExp": 135,
+    "totalExp": 1875
+  },
+  {
+    "pLv": 30,
+    "maxSt": 88,
+    "requireExp": 140,
+    "totalExp": 2015
+  },
+  {
+    "pLv": 31,
+    "maxSt": 89,
+    "requireExp": 145,
+    "totalExp": 2160
+  },
+  {
+    "pLv": 32,
+    "maxSt": 91,
+    "requireExp": 150,
+    "totalExp": 2310
+  },
+  {
+    "pLv": 33,
+    "maxSt": 92,
+    "requireExp": 155,
+    "totalExp": 2465
+  },
+  {
+    "pLv": 34,
+    "maxSt": 93,
+    "requireExp": 160,
+    "totalExp": 2625
+  },
+  {
+    "pLv": 35,
+    "maxSt": 94,
+    "requireExp": 165,
+    "totalExp": 2790
+  },
+  {
+    "pLv": 36,
+    "maxSt": 95,
+    "requireExp": 170,
+    "totalExp": 2960
+  },
+  {
+    "pLv": 37,
+    "maxSt": 96,
+    "requireExp": 175,
+    "totalExp": 3135
+  },
+  {
+    "pLv": 38,
+    "maxSt": 97,
+    "requireExp": 190,
+    "totalExp": 3325
+  },
+  {
+    "pLv": 39,
+    "maxSt": 98,
+    "requireExp": 210,
+    "totalExp": 3535
+  },
+  {
+    "pLv": 40,
+    "maxSt": 99,
+    "requireExp": 232,
+    "totalExp": 3767
+  },
+  {
+    "pLv": 41,
+    "maxSt": 100,
+    "requireExp": 255,
+    "totalExp": 4022
+  },
+  {
+    "pLv": 42,
+    "maxSt": 101,
+    "requireExp": 265,
+    "totalExp": 4287
+  },
+  {
+    "pLv": 43,
+    "maxSt": 102,
+    "requireExp": 290,
+    "totalExp": 4577
+  },
+  {
+    "pLv": 44,
+    "maxSt": 103,
+    "requireExp": 330,
+    "totalExp": 4907
+  },
+  {
+    "pLv": 45,
+    "maxSt": 104,
+    "requireExp": 370,
+    "totalExp": 5277
+  },
+  {
+    "pLv": 46,
+    "maxSt": 105,
+    "requireExp": 430,
+    "totalExp": 5707
+  },
+  {
+    "pLv": 47,
+    "maxSt": 106,
+    "requireExp": 500,
+    "totalExp": 6207
+  },
+  {
+    "pLv": 48,
+    "maxSt": 107,
+    "requireExp": 580,
+    "totalExp": 6787
+  },
+  {
+    "pLv": 49,
+    "maxSt": 108,
+    "requireExp": 670,
+    "totalExp": 7457
+  },
+  {
+    "pLv": 50,
+    "maxSt": 109,
+    "requireExp": 780,
+    "totalExp": 8237
+  },
+  {
+    "pLv": 51,
+    "maxSt": 110,
+    "requireExp": 900,
+    "totalExp": 9137
+  },
+  {
+    "pLv": 52,
+    "maxSt": 111,
+    "requireExp": 1000,
+    "totalExp": 10137
+  },
+  {
+    "pLv": 53,
+    "maxSt": 112,
+    "requireExp": 1100,
+    "totalExp": 11237
+  },
+  {
+    "pLv": 54,
+    "maxSt": 113,
+    "requireExp": 1200,
+    "totalExp": 12437
+  },
+  {
+    "pLv": 55,
+    "maxSt": 114,
+    "requireExp": 1300,
+    "totalExp": 13737
+  },
+  {
+    "pLv": 56,
+    "maxSt": 115,
+    "requireExp": 1400,
+    "totalExp": 15137
+  },
+  {
+    "pLv": 57,
+    "maxSt": 116,
+    "requireExp": 1500,
+    "totalExp": 16637
+  },
+  {
+    "pLv": 58,
+    "maxSt": 117,
+    "requireExp": 1600,
+    "totalExp": 18237
+  },
+  {
+    "pLv": 59,
+    "maxSt": 118,
+    "requireExp": 1700,
+    "totalExp": 19937
+  },
+  {
+    "pLv": 60,
+    "maxSt": 119,
+    "requireExp": 1800,
+    "totalExp": 21737
+  },
+  {
+    "pLv": 61,
+    "maxSt": 120,
+    "requireExp": 1900,
+    "totalExp": 23637
+  },
+  {
+    "pLv": 62,
+    "maxSt": 121,
+    "requireExp": 2000,
+    "totalExp": 25637
+  },
+  {
+    "pLv": 63,
+    "maxSt": 122,
+    "requireExp": 2100,
+    "totalExp": 27737
+  },
+  {
+    "pLv": 64,
+    "maxSt": 123,
+    "requireExp": 2200,
+    "totalExp": 29937
+  },
+  {
+    "pLv": 65,
+    "maxSt": 124,
+    "requireExp": 2300,
+    "totalExp": 32237
+  },
+  {
+    "pLv": 66,
+    "maxSt": 125,
+    "requireExp": 2400,
+    "totalExp": 34637
+  },
+  {
+    "pLv": 67,
+    "maxSt": 126,
+    "requireExp": 2550,
+    "totalExp": 37187
+  },
+  {
+    "pLv": 68,
+    "maxSt": 127,
+    "requireExp": 2700,
+    "totalExp": 39887
+  },
+  {
+    "pLv": 69,
+    "maxSt": 128,
+    "requireExp": 2850,
+    "totalExp": 42737
+  },
+  {
+    "pLv": 70,
+    "maxSt": 129,
+    "requireExp": 2963,
+    "totalExp": 45700
+  },
+  {
+    "pLv": 71,
+    "maxSt": 130,
+    "requireExp": 3017,
+    "totalExp": 48717
+  },
+  {
+    "pLv": 72,
+    "maxSt": 131,
+    "requireExp": 3071,
+    "totalExp": 51788
+  },
+  {
+    "pLv": 73,
+    "maxSt": 132,
+    "requireExp": 3125,
+    "totalExp": 54913
+  },
+  {
+    "pLv": 74,
+    "maxSt": 133,
+    "requireExp": 3179,
+    "totalExp": 58092
+  },
+  {
+    "pLv": 75,
+    "maxSt": 134,
+    "requireExp": 3233,
+    "totalExp": 61325
+  },
+  {
+    "pLv": 76,
+    "maxSt": 135,
+    "requireExp": 3287,
+    "totalExp": 64612
+  },
+  {
+    "pLv": 77,
+    "maxSt": 136,
+    "requireExp": 3341,
+    "totalExp": 67953
+  },
+  {
+    "pLv": 78,
+    "maxSt": 137,
+    "requireExp": 3395,
+    "totalExp": 71348
+  },
+  {
+    "pLv": 79,
+    "maxSt": 138,
+    "requireExp": 3449,
+    "totalExp": 74797
+  },
+  {
+    "pLv": 80,
+    "maxSt": 139,
+    "requireExp": 3503,
+    "totalExp": 78300
+  },
+  {
+    "pLv": 81,
+    "maxSt": 140,
+    "requireExp": 3557,
+    "totalExp": 81857
+  },
+  {
+    "pLv": 82,
+    "maxSt": 141,
+    "requireExp": 3611,
+    "totalExp": 85468
+  },
+  {
+    "pLv": 83,
+    "maxSt": 142,
+    "requireExp": 3665,
+    "totalExp": 89133
+  },
+  {
+    "pLv": 84,
+    "maxSt": 143,
+    "requireExp": 3719,
+    "totalExp": 92852
+  },
+  {
+    "pLv": 85,
+    "maxSt": 144,
+    "requireExp": 3773,
+    "totalExp": 96625
+  },
+  {
+    "pLv": 86,
+    "maxSt": 145,
+    "requireExp": 3827,
+    "totalExp": 100452
+  },
+  {
+    "pLv": 87,
+    "maxSt": 146,
+    "requireExp": 3881,
+    "totalExp": 104333
+  },
+  {
+    "pLv": 88,
+    "maxSt": 147,
+    "requireExp": 3935,
+    "totalExp": 108268
+  },
+  {
+    "pLv": 89,
+    "maxSt": 148,
+    "requireExp": 3989,
+    "totalExp": 112257
+  },
+  {
+    "pLv": 90,
+    "maxSt": 149,
+    "requireExp": 4043,
+    "totalExp": 116300
+  },
+  {
+    "pLv": 91,
+    "maxSt": 150,
+    "requireExp": 4097,
+    "totalExp": 120397
+  },
+  {
+    "pLv": 92,
+    "maxSt": 151,
+    "requireExp": 4151,
+    "totalExp": 124548
+  },
+  {
+    "pLv": 93,
+    "maxSt": 152,
+    "requireExp": 4205,
+    "totalExp": 128753
+  },
+  {
+    "pLv": 94,
+    "maxSt": 153,
+    "requireExp": 4259,
+    "totalExp": 133012
+  },
+  {
+    "pLv": 95,
+    "maxSt": 154,
+    "requireExp": 4313,
+    "totalExp": 137325
+  },
+  {
+    "pLv": 96,
+    "maxSt": 155,
+    "requireExp": 4367,
+    "totalExp": 141692
+  },
+  {
+    "pLv": 97,
+    "maxSt": 156,
+    "requireExp": 4421,
+    "totalExp": 146113
+  },
+  {
+    "pLv": 98,
+    "maxSt": 157,
+    "requireExp": 4475,
+    "totalExp": 150588
+  },
+  {
+    "pLv": 99,
+    "maxSt": 158,
+    "requireExp": 4529,
+    "totalExp": 155117
+  },
+  {
+    "pLv": 100,
+    "maxSt": 159,
+    "requireExp": 4583,
+    "totalExp": 159700
+  },
+  {
+    "pLv": 101,
+    "maxSt": 160,
+    "requireExp": 4637,
+    "totalExp": 164337
+  },
+  {
+    "pLv": 102,
+    "maxSt": 161,
+    "requireExp": 4691,
+    "totalExp": 169028
+  },
+  {
+    "pLv": 103,
+    "maxSt": 162,
+    "requireExp": 4745,
+    "totalExp": 173773
+  },
+  {
+    "pLv": 104,
+    "maxSt": 163,
+    "requireExp": 4799,
+    "totalExp": 178572
+  },
+  {
+    "pLv": 105,
+    "maxSt": 164,
+    "requireExp": 4853,
+    "totalExp": 183425
+  },
+  {
+    "pLv": 106,
+    "maxSt": 165,
+    "requireExp": 4907,
+    "totalExp": 188332
+  },
+  {
+    "pLv": 107,
+    "maxSt": 166,
+    "requireExp": 4961,
+    "totalExp": 193293
+  },
+  {
+    "pLv": 108,
+    "maxSt": 167,
+    "requireExp": 5015,
+    "totalExp": 198308
+  },
+  {
+    "pLv": 109,
+    "maxSt": 168,
+    "requireExp": 5069,
+    "totalExp": 203377
+  },
+  {
+    "pLv": 110,
+    "maxSt": 169,
+    "requireExp": 5124,
+    "totalExp": 208501
+  },
+  {
+    "pLv": 111,
+    "maxSt": 170,
+    "requireExp": 5124,
+    "totalExp": 213625
+  },
+  {
+    "pLv": 112,
+    "maxSt": 171,
+    "requireExp": 5124,
+    "totalExp": 218749
+  },
+  {
+    "pLv": 113,
+    "maxSt": 172,
+    "requireExp": 5124,
+    "totalExp": 223873
+  },
+  {
+    "pLv": 114,
+    "maxSt": 173,
+    "requireExp": 5124,
+    "totalExp": 228997
+  },
+  {
+    "pLv": 115,
+    "maxSt": 174,
+    "requireExp": 5124,
+    "totalExp": 234121
+  },
+  {
+    "pLv": 116,
+    "maxSt": 175,
+    "requireExp": 5124,
+    "totalExp": 239245
+  },
+  {
+    "pLv": 117,
+    "maxSt": 176,
+    "requireExp": 5124,
+    "totalExp": 244369
+  },
+  {
+    "pLv": 118,
+    "maxSt": 177,
+    "requireExp": 5124,
+    "totalExp": 249493
+  },
+  {
+    "pLv": 119,
+    "maxSt": 178,
+    "requireExp": 5124,
+    "totalExp": 254617
+  },
+  {
+    "pLv": 120,
+    "maxSt": 179,
+    "requireExp": 5124,
+    "totalExp": 259741
+  },
+  {
+    "pLv": 121,
+    "maxSt": 180,
+    "requireExp": 5124,
+    "totalExp": 264865
+  },
+  {
+    "pLv": 122,
+    "maxSt": 181,
+    "requireExp": 5124,
+    "totalExp": 269989
+  },
+  {
+    "pLv": 123,
+    "maxSt": 182,
+    "requireExp": 5124,
+    "totalExp": 275113
+  },
+  {
+    "pLv": 124,
+    "maxSt": 183,
+    "requireExp": 5124,
+    "totalExp": 280237
+  },
+  {
+    "pLv": 125,
+    "maxSt": 184,
+    "requireExp": 5124,
+    "totalExp": 285361
+  },
+  {
+    "pLv": 126,
+    "maxSt": 185,
+    "requireExp": 5124,
+    "totalExp": 290485
+  },
+  {
+    "pLv": 127,
+    "maxSt": 186,
+    "requireExp": 5124,
+    "totalExp": 295609
+  },
+  {
+    "pLv": 128,
+    "maxSt": 187,
+    "requireExp": 5124,
+    "totalExp": 300733
+  },
+  {
+    "pLv": 129,
+    "maxSt": 188,
+    "requireExp": 5124,
+    "totalExp": 305857
+  },
+  {
+    "pLv": 130,
+    "maxSt": 189,
+    "requireExp": 5124,
+    "totalExp": 310981
+  },
+  {
+    "pLv": 131,
+    "maxSt": 190,
+    "requireExp": 5124,
+    "totalExp": 316105
+  },
+  {
+    "pLv": 132,
+    "maxSt": 191,
+    "requireExp": 5124,
+    "totalExp": 321229
+  },
+  {
+    "pLv": 133,
+    "maxSt": 192,
+    "requireExp": 5124,
+    "totalExp": 326353
+  },
+  {
+    "pLv": 134,
+    "maxSt": 193,
+    "requireExp": 5124,
+    "totalExp": 331477
+  },
+  {
+    "pLv": 135,
+    "maxSt": 194,
+    "requireExp": 5124,
+    "totalExp": 336601
+  },
+  {
+    "pLv": 136,
+    "maxSt": 195,
+    "requireExp": 5124,
+    "totalExp": 341725
+  },
+  {
+    "pLv": 137,
+    "maxSt": 196,
+    "requireExp": 5124,
+    "totalExp": 346849
+  },
+  {
+    "pLv": 138,
+    "maxSt": 197,
+    "requireExp": 5124,
+    "totalExp": 351973
+  },
+  {
+    "pLv": 139,
+    "maxSt": 198,
+    "requireExp": 5124,
+    "totalExp": 357097
+  },
+  {
+    "pLv": 140,
+    "maxSt": 199,
+    "requireExp": 5124,
+    "totalExp": 362221
+  },
+  {
+    "pLv": 141,
+    "maxSt": 200,
+    "requireExp": 5124,
+    "totalExp": 367345
+  },
+  {
+    "pLv": 142,
+    "maxSt": 201,
+    "requireExp": 5124,
+    "totalExp": 372469
+  },
+  {
+    "pLv": 143,
+    "maxSt": 202,
+    "requireExp": 5124,
+    "totalExp": 377593
+  },
+  {
+    "pLv": 144,
+    "maxSt": 203,
+    "requireExp": 5124,
+    "totalExp": 382717
+  },
+  {
+    "pLv": 145,
+    "maxSt": 204,
+    "requireExp": 5124,
+    "totalExp": 387841
+  },
+  {
+    "pLv": 146,
+    "maxSt": 205,
+    "requireExp": 5124,
+    "totalExp": 392965
+  },
+  {
+    "pLv": 147,
+    "maxSt": 206,
+    "requireExp": 5124,
+    "totalExp": 398089
+  },
+  {
+    "pLv": 148,
+    "maxSt": 207,
+    "requireExp": 5124,
+    "totalExp": 403213
+  },
+  {
+    "pLv": 149,
+    "maxSt": 208,
+    "requireExp": 5124,
+    "totalExp": 408337
+  },
+  {
+    "pLv": 150,
+    "maxSt": 209,
+    "requireExp": 5124,
+    "totalExp": 413461
+  },
+  {
+    "pLv": 151,
+    "maxSt": 210,
+    "requireExp": 5124,
+    "totalExp": 418585
+  },
+  {
+    "pLv": 152,
+    "maxSt": 211,
+    "requireExp": 5124,
+    "totalExp": 423709
+  },
+  {
+    "pLv": 153,
+    "maxSt": 212,
+    "requireExp": 5124,
+    "totalExp": 428833
+  },
+  {
+    "pLv": 154,
+    "maxSt": 213,
+    "requireExp": 5124,
+    "totalExp": 433957
+  },
+  {
+    "pLv": 155,
+    "maxSt": 214,
+    "requireExp": 5124,
+    "totalExp": 439081
+  },
+  {
+    "pLv": 156,
+    "maxSt": 215,
+    "requireExp": 5124,
+    "totalExp": 444205
+  },
+  {
+    "pLv": 157,
+    "maxSt": 216,
+    "requireExp": 5124,
+    "totalExp": 449329
+  },
+  {
+    "pLv": 158,
+    "maxSt": 217,
+    "requireExp": 5124,
+    "totalExp": 454453
+  },
+  {
+    "pLv": 159,
+    "maxSt": 218,
+    "requireExp": 5124,
+    "totalExp": 459577
+  },
+  {
+    "pLv": 160,
+    "maxSt": 219,
+    "requireExp": 5124,
+    "totalExp": 464701
+  },
+  {
+    "pLv": 161,
+    "maxSt": 220,
+    "requireExp": 5124,
+    "totalExp": 469825
+  },
+  {
+    "pLv": 162,
+    "maxSt": 221,
+    "requireExp": 5124,
+    "totalExp": 474949
+  },
+  {
+    "pLv": 163,
+    "maxSt": 222,
+    "requireExp": 5124,
+    "totalExp": 480073
+  },
+  {
+    "pLv": 164,
+    "maxSt": 223,
+    "requireExp": 5124,
+    "totalExp": 485197
+  },
+  {
+    "pLv": 165,
+    "maxSt": 224,
+    "requireExp": 5124,
+    "totalExp": 490321
+  },
+  {
+    "pLv": 166,
+    "maxSt": 225,
+    "requireExp": 5124,
+    "totalExp": 495445
+  },
+  {
+    "pLv": 167,
+    "maxSt": 226,
+    "requireExp": 5124,
+    "totalExp": 500569
+  },
+  {
+    "pLv": 168,
+    "maxSt": 227,
+    "requireExp": 5124,
+    "totalExp": 505693
+  },
+  {
+    "pLv": 169,
+    "maxSt": 228,
+    "requireExp": 5124,
+    "totalExp": 510817
+  },
+  {
+    "pLv": 170,
+    "maxSt": 229,
+    "requireExp": 5124,
+    "totalExp": 515941
+  },
+  {
+    "pLv": 171,
+    "maxSt": 230,
+    "requireExp": 5124,
+    "totalExp": 521065
+  },
+  {
+    "pLv": 172,
+    "maxSt": 231,
+    "requireExp": 5124,
+    "totalExp": 526189
+  },
+  {
+    "pLv": 173,
+    "maxSt": 232,
+    "requireExp": 5124,
+    "totalExp": 531313
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "recoverCount": 0,
+    "cost": 0,
+    "totalCost": 0
+  },
+  {
+    "recoverCount": 1,
+    "cost": 40,
+    "totalCost": 40
+  },
+  {
+    "recoverCount": 2,
+    "cost": 40,
+    "totalCost": 80
+  },
+  {
+    "recoverCount": 3,
+    "cost": 40,
+    "totalCost": 120
+  },
+  {
+    "recoverCount": 4,
+    "cost": 60,
+    "totalCost": 180
+  },
+  {
+    "recoverCount": 5,
+    "cost": 60,
+    "totalCost": 240
+  },
+  {
+    "recoverCount": 6,
+    "cost": 60,
+    "totalCost": 300
+  },
+  {
+    "recoverCount": 7,
+    "cost": 100,
+    "totalCost": 400
+  },
+  {
+    "recoverCount": 8,
+    "cost": 100,
+    "totalCost": 500
+  },
+  {
+    "recoverCount": 9,
+    "cost": 100,
+    "totalCost": 600
+  },
+  {
+    "recoverCount": 10,
+    "cost": 150,
+    "totalCost": 750
+  },
+  {
+    "recoverCount": 11,
+    "cost": 150,
+    "totalCost": 900
+  },
+  {
+    "recoverCount": 12,
+    "cost": 150,
+    "totalCost": 1050
+  },
+  {
+    "recoverCount": 13,
+    "cost": 180,
+    "totalCost": 1230
+  },
+  {
+    "recoverCount": 14,
+    "cost": 180,
+    "totalCost": 1410
+  },
+  {
+    "recoverCount": 15,
+    "cost": 180,
+    "totalCost": 1590
+  },
+  {
+    "recoverCount": 16,
+    "cost": 180,
+    "totalCost": 1770
+  },
+  {
+    "recoverCount": 17,
+    "cost": 180,
+    "totalCost": 1950
+  },
+  {
+    "recoverCount": 18,
+    "cost": 180,
+    "totalCost": 2130
+  },
+  {
+    "recoverCount": 19,
+    "cost": 200,
+    "totalCost": 2330
+  },
+  {
+    "recoverCount": 20,
+    "cost": 200,
+    "totalCost": 2530
+  },
+  {
+    "recoverCount": 21,
+    "cost": 200,
+    "totalCost": 2730
+  },
+  {
+    "recoverCount": 22,
+    "cost": 200,
+    "totalCost": 2930
+  },
+  {
+    "recoverCount": 23,
+    "cost": 200,
+    "totalCost": 3130
+  },
+  {
+    "recoverCount": 24,
+    "cost": 250,
+    "totalCost": 3380
+  },
+  {
+    "recoverCount": 25,
+    "cost": 250,
+    "totalCost": 3630
+  },
+  {
+    "recoverCount": 26,
+    "cost": 250,
+    "totalCost": 3880
+  },
+  {
+    "recoverCount": 27,
+    "cost": 250,
+    "totalCost": 4130
+  },
+  {
+    "recoverCount": 28,
+    "cost": 250,
+    "totalCost": 4380
+  },
+  {
+    "recoverCount": 29,
+    "cost": 250,
+    "totalCost": 4630
+  },
+  {
+    "recoverCount": 30,
+    "cost": 250,
+    "totalCost": 4880
+  }
+]

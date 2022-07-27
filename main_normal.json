@@ -1,0 +1,2666 @@
+[
+	{
+		"stage": "N1-1",
+		"stageName": "こんなやつら、私一人で十分よ！",
+		"st": 8,
+		"recommendLv": 1,
+		"dayLimit": 0,
+		"drops": [
+			"パセリ",
+			"レーズン",
+			"とうもろこし"
+		]
+	},
+	{
+		"stage": "N1-2",
+		"stageName": "ベリアルも戦闘に参加しなさい！",
+		"st": 8,
+		"recommendLv": 2,
+		"dayLimit": 0,
+		"drops": [
+			"野草",
+			"卵",
+			"サツマイモ"
+		]
+	},
+	{
+		"stage": "N1-3",
+		"stageName": "港町ゴートウルフ",
+		"st": 8,
+		"recommendLv": 2,
+		"dayLimit": 0,
+		"drops": [
+			"小麦",
+			"牛肉",
+			"レーズン"
+		]
+	},
+	{
+		"stage": "N1-4",
+		"stageName": "港町ゴートウルフ",
+		"st": 8,
+		"recommendLv": 3,
+		"dayLimit": 0,
+		"drops": [
+			"パセリ",
+			"あわ",
+			"野草"
+		]
+	},
+	{
+		"stage": "N1-5",
+		"stageName": "港町ゴートウルフ",
+		"st": 8,
+		"recommendLv": 4,
+		"dayLimit": 0,
+		"drops": [
+			"チーズ",
+			"赤い実",
+			"卵"
+		]
+	},
+	{
+		"stage": "N1-6",
+		"stageName": "港町ゴートウルフ",
+		"st": 8,
+		"recommendLv": 4,
+		"dayLimit": 0,
+		"drops": [
+			"くるみ",
+			"とうもろこし",
+			"牛乳"
+		]
+	},
+	{
+		"stage": "N1-7",
+		"stageName": "港町ゴートウルフ",
+		"st": 8,
+		"recommendLv": 5,
+		"dayLimit": 0,
+		"drops": [
+			"イモ",
+			"小麦",
+			"あわ"
+		]
+	},
+	{
+		"stage": "N1-8",
+		"stageName": "6人編成して挑もう！",
+		"st": 9,
+		"recommendLv": 6,
+		"dayLimit": 0,
+		"drops": [
+			"サツマイモ",
+			"パセリ",
+			"赤い実"
+		]
+	},
+	{
+		"stage": "N2-1",
+		"stageName": "ボーナスステージ",
+		"st": 8,
+		"recommendLv": 6,
+		"dayLimit": 0,
+		"drops": [
+			"小麦粉",
+			"とうもろこし",
+			"サツマイモ"
+		]
+	},
+	{
+		"stage": "N2-2",
+		"stageName": "町外れの森",
+		"st": 8,
+		"recommendLv": 7,
+		"dayLimit": 0,
+		"drops": [
+			"たまねぎ",
+			"挽肉",
+			"小麦"
+		]
+	},
+	{
+		"stage": "N2-3",
+		"stageName": "町外れの森",
+		"st": 8,
+		"recommendLv": 8,
+		"dayLimit": 0,
+		"drops": [
+			"ピリペッパー",
+			"カレー粉",
+			"牛乳"
+		]
+	},
+	{
+		"stage": "N2-4",
+		"stageName": "強敵出現！鍛えて備えよ",
+		"st": 8,
+		"recommendLv": 10,
+		"dayLimit": 0,
+		"drops": [
+			"こしょう",
+			"イモ",
+			"とうもろこし"
+		]
+	},
+	{
+		"stage": "N2-5",
+		"stageName": "町外れの森",
+		"st": 8,
+		"recommendLv": 10,
+		"dayLimit": 0,
+		"drops": [
+			"ライス",
+			"小麦粉",
+			"くるみ"
+		]
+	},
+	{
+		"stage": "N2-6",
+		"stageName": "ボーナスステージ",
+		"st": 8,
+		"recommendLv": 10,
+		"dayLimit": 0,
+		"drops": [
+			"カレー粉",
+			"パン",
+			"イモ"
+		]
+	},
+	{
+		"stage": "N2-7",
+		"stageName": "町外れの森",
+		"st": 8,
+		"recommendLv": 10,
+		"dayLimit": 0,
+		"drops": [
+			"小麦粉",
+			"たまねぎ",
+			"チーズ"
+		]
+	},
+	{
+		"stage": "N2-8",
+		"stageName": "町外れの森",
+		"st": 8,
+		"recommendLv": 10,
+		"dayLimit": 0,
+		"drops": [
+			"挽肉",
+			"ライス",
+			"あわ"
+		]
+	},
+	{
+		"stage": "N2-9",
+		"stageName": "町外れの森",
+		"st": 8,
+		"recommendLv": 11,
+		"dayLimit": 0,
+		"drops": [
+			"パン",
+			"ピリペッパー",
+			"牛乳"
+		]
+	},
+	{
+		"stage": "N2-10",
+		"stageName": "使えるスキルを増やそう",
+		"st": 9,
+		"recommendLv": 13,
+		"dayLimit": 0,
+		"drops": [
+			"たまねぎ",
+			"こしょう",
+			"卵"
+		]
+	},
+	{
+		"stage": "N3-1",
+		"stageName": "森林街道の村",
+		"st": 8,
+		"recommendLv": 13,
+		"dayLimit": 0,
+		"drops": [
+			"カレー粉",
+			"ニンジン",
+			"マカロニ"
+		]
+	},
+	{
+		"stage": "N3-2",
+		"stageName": "森林街道の村",
+		"st": 8,
+		"recommendLv": 13,
+		"dayLimit": 0,
+		"drops": [
+			"醤油",
+			"昇華バター",
+			"たまねぎ"
+		]
+	},
+	{
+		"stage": "N3-3",
+		"stageName": "森林街道の村",
+		"st": 8,
+		"recommendLv": 14,
+		"dayLimit": 0,
+		"drops": [
+			"ぷるぷるトーフー",
+			"イエローマスタード",
+			"サツマイモ"
+		]
+	},
+	{
+		"stage": "N3-4",
+		"stageName": "森林街道の村",
+		"st": 8,
+		"recommendLv": 14,
+		"dayLimit": 0,
+		"drops": [
+			"香るミカン",
+			"にこにこにこごり",
+			"お肉"
+		]
+	},
+	{
+		"stage": "N3-5",
+		"stageName": "ボーナスステージ",
+		"st": 8,
+		"recommendLv": 14,
+		"dayLimit": 0,
+		"drops": [
+			"コケ鶏肉",
+			"こしょう",
+			"昇華バター"
+		]
+	},
+	{
+		"stage": "N3-6",
+		"stageName": "森林街道の村",
+		"st": 8,
+		"recommendLv": 16,
+		"dayLimit": 0,
+		"drops": [
+			"レタス",
+			"マカロニ",
+			"醤油"
+		]
+	},
+	{
+		"stage": "N3-7",
+		"stageName": "森林街道の村",
+		"st": 8,
+		"recommendLv": 16,
+		"dayLimit": 0,
+		"drops": [
+			"ニンジン",
+			"お肉",
+			"イモ"
+		]
+	},
+	{
+		"stage": "N3-8",
+		"stageName": "森林街道の村",
+		"st": 8,
+		"recommendLv": 17,
+		"dayLimit": 0,
+		"drops": [
+			"にこにこにこごり",
+			"醤油",
+			"卵"
+		]
+	},
+	{
+		"stage": "N3-9",
+		"stageName": "森林街道の村",
+		"st": 8,
+		"recommendLv": 18,
+		"dayLimit": 0,
+		"drops": [
+			"昇華バター",
+			"レタス",
+			"小麦粉"
+		]
+	},
+	{
+		"stage": "N3-10",
+		"stageName": "ボーナスステージ",
+		"st": 8,
+		"recommendLv": 19,
+		"dayLimit": 0,
+		"drops": [
+			"お肉",
+			"コケ鶏肉",
+			"こしょう"
+		]
+	},
+	{
+		"stage": "N3-11",
+		"stageName": "森林街道の村",
+		"st": 8,
+		"recommendLv": 20,
+		"dayLimit": 0,
+		"drops": [
+			"イエローマスタード",
+			"香るミカン",
+			"ぷるぷるトーフー"
+		]
+	},
+	{
+		"stage": "N3-12",
+		"stageName": "森林街道の村",
+		"st": 9,
+		"recommendLv": 23,
+		"dayLimit": 0,
+		"drops": [
+			"醤油",
+			"こしょう",
+			"にこにこにこごり"
+		]
+	},
+	{
+		"stage": "N4-1",
+		"stageName": "遺跡の村",
+		"st": 9,
+		"recommendLv": 23,
+		"dayLimit": 0,
+		"drops": [
+			"コケ鶏肉",
+			"ニンジン",
+			"こしょう"
+		]
+	},
+	{
+		"stage": "N4-2",
+		"stageName": "遺跡の村",
+		"st": 9,
+		"recommendLv": 23,
+		"dayLimit": 0,
+		"drops": [
+			"塩",
+			"小豆洗いの小豆",
+			"あわ"
+		]
+	},
+	{
+		"stage": "N4-3",
+		"stageName": "遺跡の村",
+		"st": 9,
+		"recommendLv": 23,
+		"dayLimit": 0,
+		"drops": [
+			"しめじ",
+			"しびれジンジャー",
+			"パンパカパンプキン"
+		]
+	},
+	{
+		"stage": "N4-4",
+		"stageName": "遺跡の村",
+		"st": 9,
+		"recommendLv": 24,
+		"dayLimit": 0,
+		"drops": [
+			"ブンブンネギ",
+			"アルキニンジン",
+			"昇華バター"
+		]
+	},
+	{
+		"stage": "N4-5",
+		"stageName": "遺跡の村",
+		"st": 9,
+		"recommendLv": 24,
+		"dayLimit": 0,
+		"drops": [
+			"ロイヤルミルク",
+			"塩",
+			"人食いアナコンダ"
+		]
+	},
+	{
+		"stage": "N4-6",
+		"stageName": "遺跡の村",
+		"st": 9,
+		"recommendLv": 26,
+		"dayLimit": 0,
+		"drops": [
+			"忍々ニンニク",
+			"トマト",
+			"片角の牡鹿"
+		]
+	},
+	{
+		"stage": "N4-7",
+		"stageName": "ボーナスステージ",
+		"st": 9,
+		"recommendLv": 26,
+		"dayLimit": 0,
+		"drops": [
+			"お肉",
+			"ブンブンネギ",
+			"ロイヤルミルク"
+		]
+	},
+	{
+		"stage": "N4-8",
+		"stageName": "遺跡の村",
+		"st": 9,
+		"recommendLv": 26,
+		"dayLimit": 0,
+		"drops": [
+			"トマト",
+			"片角の牡鹿",
+			"昇華バター"
+		]
+	},
+	{
+		"stage": "N4-9",
+		"stageName": "遺跡の村",
+		"st": 9,
+		"recommendLv": 26,
+		"dayLimit": 0,
+		"drops": [
+			"ざわわ黒糖",
+			"ロイヤルミルク",
+			"醤油"
+		]
+	},
+	{
+		"stage": "N4-10",
+		"stageName": "遺跡の村",
+		"st": 9,
+		"recommendLv": 27,
+		"dayLimit": 0,
+		"drops": [
+			"ブンブンネギ",
+			"忍々ニンニク",
+			"小豆洗いの小豆"
+		]
+	},
+	{
+		"stage": "N4-11",
+		"stageName": "ボーナスステージ",
+		"st": 9,
+		"recommendLv": 27,
+		"dayLimit": 0,
+		"drops": [
+			"アルキニンジン",
+			"ざわわ黒糖",
+			"しめじ"
+		]
+	},
+	{
+		"stage": "N4-12",
+		"stageName": "遺跡の村",
+		"st": 10,
+		"recommendLv": 29,
+		"dayLimit": 0,
+		"drops": [
+			"パンパカパンプキン",
+			"人食いアナコンダ",
+			"しびれジンジャー"
+		]
+	},
+	{
+		"stage": "N5-1",
+		"stageName": "遺跡",
+		"st": 9,
+		"recommendLv": 29,
+		"dayLimit": 0,
+		"drops": [
+			"腰ぴっかりん",
+			"塩",
+			"トマト"
+		]
+	},
+	{
+		"stage": "N5-2",
+		"stageName": "遺跡",
+		"st": 9,
+		"recommendLv": 29,
+		"dayLimit": 0,
+		"drops": [
+			"∞米",
+			"ヤシの実",
+			"パンパカパンプキン"
+		]
+	},
+	{
+		"stage": "N5-3",
+		"stageName": "遺跡",
+		"st": 9,
+		"recommendLv": 29,
+		"dayLimit": 0,
+		"drops": [
+			"ゴーグルたまねぎ",
+			"ナチュラルミネラル岩塩",
+			"セミブロッコリー"
+		]
+	},
+	{
+		"stage": "N5-4",
+		"stageName": "遺跡",
+		"st": 9,
+		"recommendLv": 30,
+		"dayLimit": 0,
+		"drops": [
+			"あばれグリズリー",
+			"腰ぴっかりん",
+			"忍々ニンニク"
+		]
+	},
+	{
+		"stage": "N5-5",
+		"stageName": "ボーナスステージ",
+		"st": 9,
+		"recommendLv": 31,
+		"dayLimit": 0,
+		"drops": [
+			"うまみサボテン",
+			"セミブロッコリー",
+			"アルキニンジン"
+		]
+	},
+	{
+		"stage": "N5-6",
+		"stageName": "遺跡",
+		"st": 9,
+		"recommendLv": 32,
+		"dayLimit": 0,
+		"drops": [
+			"スカモルツァ",
+			"ゴーグルたまねぎ",
+			"にこにこにこごり"
+		]
+	},
+	{
+		"stage": "N5-7",
+		"stageName": "魔法がおすすめ",
+		"st": 9,
+		"recommendLv": 35,
+		"dayLimit": 0,
+		"drops": [
+			"ナチュラルミネラル岩塩",
+			"∞米",
+			"ロイヤルミルク"
+		]
+	},
+	{
+		"stage": "N5-8",
+		"stageName": "遺跡",
+		"st": 9,
+		"recommendLv": 35,
+		"dayLimit": 0,
+		"drops": [
+			"伝統石臼小麦粉",
+			"三戦山椒",
+			"昇華バター"
+		]
+	},
+	{
+		"stage": "N5-9",
+		"stageName": "遺跡",
+		"st": 9,
+		"recommendLv": 35,
+		"dayLimit": 0,
+		"drops": [
+			"セミブロッコリー",
+			"スカモルツァ",
+			"醤油"
+		]
+	},
+	{
+		"stage": "N5-10",
+		"stageName": "遺跡",
+		"st": 9,
+		"recommendLv": 35,
+		"dayLimit": 0,
+		"drops": [
+			"三戦山椒",
+			"あばれグリズリー",
+			"忍々ニンニク"
+		]
+	},
+	{
+		"stage": "N5-11",
+		"stageName": "遺跡",
+		"st": 9,
+		"recommendLv": 35,
+		"dayLimit": 0,
+		"drops": [
+			"ナチュラルミネラル岩塩",
+			"伝統石臼小麦粉",
+			"ブンブンネギ"
+		]
+	},
+	{
+		"stage": "N5-12",
+		"stageName": "遺跡",
+		"st": 10,
+		"recommendLv": 35,
+		"dayLimit": 0,
+		"drops": [
+			"ゴーグルたまねぎ",
+			"ロイヤルミルク",
+			"小豆洗いの小豆"
+		]
+	},
+	{
+		"stage": "N6-1",
+		"stageName": "ボーナスステージ",
+		"st": 9,
+		"recommendLv": 35,
+		"dayLimit": 0,
+		"drops": [
+			"サラマンダーハート",
+			"ラッコラ",
+			"アルキニンジン"
+		]
+	},
+	{
+		"stage": "N6-2",
+		"stageName": "西の都",
+		"st": 9,
+		"recommendLv": 35,
+		"dayLimit": 0,
+		"drops": [
+			"スカモルツァ",
+			"オウゴンウコン",
+			"しびれジンジャー"
+		]
+	},
+	{
+		"stage": "N6-3",
+		"stageName": "西の都",
+		"st": 9,
+		"recommendLv": 36,
+		"dayLimit": 0,
+		"drops": [
+			"ヤシの実",
+			"うしのしっぽ",
+			"しめじ"
+		]
+	},
+	{
+		"stage": "N6-4",
+		"stageName": "西の都",
+		"st": 9,
+		"recommendLv": 37,
+		"dayLimit": 0,
+		"drops": [
+			"ぷりぷりエビ",
+			"もこもこオイル",
+			"ブンブンネギ"
+		]
+	},
+	{
+		"stage": "N6-5",
+		"stageName": "ボーナスステージ",
+		"st": 9,
+		"recommendLv": 37,
+		"dayLimit": 0,
+		"drops": [
+			"ラッコラ",
+			"ゴーグルたまねぎ",
+			"ナチュラルミネラル岩塩"
+		]
+	},
+	{
+		"stage": "N6-6",
+		"stageName": "物理がおすすめ",
+		"st": 9,
+		"recommendLv": 40,
+		"dayLimit": 0,
+		"drops": [
+			"オウゴンウコン",
+			"肉厚ニマイガイ",
+			"三戦山椒"
+		]
+	},
+	{
+		"stage": "N6-7",
+		"stageName": "西の都",
+		"st": 9,
+		"recommendLv": 40,
+		"dayLimit": 0,
+		"drops": [
+			"ナンだこりゃ",
+			"伝統石臼小麦粉",
+			"ロイヤルミルク"
+		]
+	},
+	{
+		"stage": "N6-8",
+		"stageName": "西の都",
+		"st": 9,
+		"recommendLv": 40,
+		"dayLimit": 0,
+		"drops": [
+			"トロピカルクラブ",
+			"スカモルツァ",
+			"うまみサボテン"
+		]
+	},
+	{
+		"stage": "N6-9",
+		"stageName": "西の都",
+		"st": 9,
+		"recommendLv": 40,
+		"dayLimit": 0,
+		"drops": [
+			"パスタ麵",
+			"マンホールピザ生地",
+			"あばれグリズリー"
+		]
+	},
+	{
+		"stage": "N6-10",
+		"stageName": "西の都",
+		"st": 9,
+		"recommendLv": 41,
+		"dayLimit": 0,
+		"drops": [
+			"肉厚ニマイガイ",
+			"初恋レモン",
+			"忍々ニンニク"
+		]
+	},
+	{
+		"stage": "N6-11",
+		"stageName": "西の都",
+		"st": 9,
+		"recommendLv": 42,
+		"dayLimit": 0,
+		"drops": [
+			"うしのしっぽ",
+			"ナチュラルミネラル岩塩",
+			"サラマンダーハート"
+		]
+	},
+	{
+		"stage": "N6-12",
+		"stageName": "西の都",
+		"st": 10,
+		"recommendLv": 45,
+		"dayLimit": 0,
+		"drops": [
+			"もこもこオイル",
+			"まるごとハム",
+			"トマト"
+		]
+	},
+	{
+		"stage": "N7-1",
+		"stageName": "西の都北部森",
+		"st": 10,
+		"recommendLv": 45,
+		"dayLimit": 0,
+		"drops": [
+			"伯爵ポテト",
+			"やたら細長いパン",
+			"トロピカルクラブ"
+		]
+	},
+	{
+		"stage": "N7-2",
+		"stageName": "西の都北部森",
+		"st": 10,
+		"recommendLv": 45,
+		"dayLimit": 0,
+		"drops": [
+			"うろ覚えアホガト",
+			"側近イカ",
+			"もこもこオイル"
+		]
+	},
+	{
+		"stage": "N7-3",
+		"stageName": "西の都北部森",
+		"st": 10,
+		"recommendLv": 45,
+		"dayLimit": 0,
+		"drops": [
+			"アリガ糖",
+			"もこもこオイル",
+			"ナンだこりゃ"
+		]
+	},
+	{
+		"stage": "N7-4",
+		"stageName": "西の都北部森",
+		"st": 10,
+		"recommendLv": 45,
+		"dayLimit": 0,
+		"drops": [
+			"ジューシー巻貝",
+			"オウゴンウコン",
+			"サラマンダーハート"
+		]
+	},
+	{
+		"stage": "N7-5",
+		"stageName": "西の都北部森",
+		"st": 10,
+		"recommendLv": 45,
+		"dayLimit": 0,
+		"drops": [
+			"初恋レモン",
+			"ラッコラ",
+			"まるごとハム"
+		]
+	},
+	{
+		"stage": "N7-6",
+		"stageName": "西の都北部森",
+		"st": 10,
+		"recommendLv": 45,
+		"dayLimit": 0,
+		"drops": [
+			"側近イカ",
+			"アリガ糖",
+			"パスタ麵"
+		]
+	},
+	{
+		"stage": "N7-7",
+		"stageName": "西の都北部森",
+		"st": 10,
+		"recommendLv": 46,
+		"dayLimit": 0,
+		"drops": [
+			"クレイジーハーブ",
+			"うしのしっぽ",
+			"伝統石臼小麦粉"
+		]
+	},
+	{
+		"stage": "N7-8",
+		"stageName": "魔法がおすすめ",
+		"st": 10,
+		"recommendLv": 48,
+		"dayLimit": 0,
+		"drops": [
+			"まるごとハム",
+			"肉厚ニマイガイ",
+			"トロピカルクラブ"
+		]
+	},
+	{
+		"stage": "N7-9",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 48,
+		"dayLimit": 0,
+		"drops": [
+			"やたら細長いパン",
+			"ぷりぷりエビ",
+			"マンホールピザ生地"
+		]
+	},
+	{
+		"stage": "N7-10",
+		"stageName": "西の都北部森",
+		"st": 10,
+		"recommendLv": 49,
+		"dayLimit": 0,
+		"drops": [
+			"うろ覚えアホガト",
+			"クレイジーハーブ",
+			"伯爵ポテト"
+		]
+	},
+	{
+		"stage": "N7-11",
+		"stageName": "西の都北部森",
+		"st": 10,
+		"recommendLv": 50,
+		"dayLimit": 0,
+		"drops": [
+			"伯爵ポテト",
+			"ミリオンパイ生地",
+			"まるごとハム"
+		]
+	},
+	{
+		"stage": "N7-12",
+		"stageName": "西の都北部森",
+		"st": 10,
+		"recommendLv": 52,
+		"dayLimit": 0,
+		"drops": [
+			"ミリオンパイ生地",
+			"うろ覚えアホガト",
+			"ぷりぷりエビ"
+		]
+	},
+	{
+		"stage": "N8-1",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 52,
+		"dayLimit": 0,
+		"drops": [
+			"ジューシー巻貝",
+			"初恋レモン",
+			"∞米"
+		]
+	},
+	{
+		"stage": "N8-2",
+		"stageName": "山道口の村",
+		"st": 10,
+		"recommendLv": 52,
+		"dayLimit": 0,
+		"drops": [
+			"クレイジーハーブ",
+			"ふわっふわパン",
+			"腰ぴっかりん"
+		]
+	},
+	{
+		"stage": "N8-3",
+		"stageName": "山道口の村",
+		"st": 10,
+		"recommendLv": 52,
+		"dayLimit": 0,
+		"drops": [
+			"側近イカ",
+			"ナンだこりゃ",
+			"ゴーグルたまねぎ"
+		]
+	},
+	{
+		"stage": "N8-4",
+		"stageName": "山道口の村",
+		"st": 10,
+		"recommendLv": 53,
+		"dayLimit": 0,
+		"drops": [
+			"真紅ワイン",
+			"ぷりぷりエビ",
+			"あばれグリズリー"
+		]
+	},
+	{
+		"stage": "N8-5",
+		"stageName": "物理がおすすめ",
+		"st": 10,
+		"recommendLv": 55,
+		"dayLimit": 0,
+		"drops": [
+			"アリガ糖",
+			"ジャックの金の卵",
+			"うまみサボテン"
+		]
+	},
+	{
+		"stage": "N8-6",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 55,
+		"dayLimit": 0,
+		"drops": [
+			"極東の香木",
+			"まるごとハム",
+			"スカモルツァ"
+		]
+	},
+	{
+		"stage": "N8-7",
+		"stageName": "山道口の村",
+		"st": 10,
+		"recommendLv": 55,
+		"dayLimit": 0,
+		"drops": [
+			"ミリオンパイ生地",
+			"まるごとハム",
+			"ナチュラルミネラル岩塩"
+		]
+	},
+	{
+		"stage": "N8-8",
+		"stageName": "山道口の村",
+		"st": 10,
+		"recommendLv": 55,
+		"dayLimit": 0,
+		"drops": [
+			"やたら細長いパン",
+			"真紅ワイン",
+			"伝統石臼小麦粉"
+		]
+	},
+	{
+		"stage": "N8-9",
+		"stageName": "山道口の村",
+		"st": 10,
+		"recommendLv": 56,
+		"dayLimit": 0,
+		"drops": [
+			"ふわっふわパン",
+			"伯爵ポテト",
+			"セミブロッコリー"
+		]
+	},
+	{
+		"stage": "N8-10",
+		"stageName": "山道口の村",
+		"st": 10,
+		"recommendLv": 57,
+		"dayLimit": 0,
+		"drops": [
+			"うろ覚えアホガト",
+			"ジューシー巻貝",
+			"三戦山椒"
+		]
+	},
+	{
+		"stage": "N8-11",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 57,
+		"dayLimit": 0,
+		"drops": [
+			"サラマンダーハート",
+			"極東の香木",
+			"ヤシの実"
+		]
+	},
+	{
+		"stage": "N8-12",
+		"stageName": "山道口の村",
+		"st": 10,
+		"recommendLv": 60,
+		"dayLimit": 0,
+		"drops": [
+			"ジャックの金の卵",
+			"もこもこオイル",
+			"アリガ糖"
+		]
+	},
+	{
+		"stage": "N9-1",
+		"stageName": "湖畔の街南部海岸",
+		"st": 10,
+		"recommendLv": 60,
+		"dayLimit": 0,
+		"drops": [
+			"ウキウキバナナ",
+			"オウゴンウコン",
+			"ニンジン"
+		]
+	},
+	{
+		"stage": "N9-2",
+		"stageName": "湖畔の街南部海岸",
+		"st": 10,
+		"recommendLv": 60,
+		"dayLimit": 0,
+		"drops": [
+			"てれやリンゴ",
+			"パスタ麵",
+			"ざわわ黒糖"
+		]
+	},
+	{
+		"stage": "N9-3",
+		"stageName": "魔法がおすすめ",
+		"st": 10,
+		"recommendLv": 62,
+		"dayLimit": 0,
+		"drops": [
+			"ラブハニー",
+			"マンホールピザ生地",
+			"ぷるぷるトーフー"
+		]
+	},
+	{
+		"stage": "N9-4",
+		"stageName": "湖畔の街南部海岸",
+		"st": 10,
+		"recommendLv": 62,
+		"dayLimit": 0,
+		"drops": [
+			"決闘いも",
+			"ラッコラ",
+			"醤油"
+		]
+	},
+	{
+		"stage": "N9-5",
+		"stageName": "湖畔の街南部海岸",
+		"st": 10,
+		"recommendLv": 62,
+		"dayLimit": 0,
+		"drops": [
+			"炭鉱メロン",
+			"やたら細長いパン",
+			"レタス"
+		]
+	},
+	{
+		"stage": "N9-6",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 63,
+		"dayLimit": 0,
+		"drops": [
+			"真紅ワイン",
+			"肉厚ニマイガイ",
+			"イエローマスタード"
+		]
+	},
+	{
+		"stage": "N9-7",
+		"stageName": "湖畔の街南部海岸",
+		"st": 10,
+		"recommendLv": 63,
+		"dayLimit": 0,
+		"drops": [
+			"極東の香木",
+			"うろ覚えアホガト",
+			"お肉"
+		]
+	},
+	{
+		"stage": "N9-8",
+		"stageName": "湖畔の街南部海岸",
+		"st": 10,
+		"recommendLv": 63,
+		"dayLimit": 0,
+		"drops": [
+			"クレイジーハーブ",
+			"てれやリンゴ",
+			"香るミカン"
+		]
+	},
+	{
+		"stage": "N9-9",
+		"stageName": "湖畔の街南部海岸",
+		"st": 10,
+		"recommendLv": 64,
+		"dayLimit": 0,
+		"drops": [
+			"うしのしっぽ",
+			"決闘いも",
+			"パンパカパンプキン"
+		]
+	},
+	{
+		"stage": "N9-10",
+		"stageName": "湖畔の街南部海岸",
+		"st": 10,
+		"recommendLv": 64,
+		"dayLimit": 0,
+		"drops": [
+			"トロピカルクラブ",
+			"ラブハニー",
+			"昇華バター"
+		]
+	},
+	{
+		"stage": "N9-11",
+		"stageName": "湖畔の街南部海岸",
+		"st": 10,
+		"recommendLv": 64,
+		"dayLimit": 0,
+		"drops": [
+			"ミリオンパイ生地",
+			"ウキウキバナナ",
+			"にこにこにこごり"
+		]
+	},
+	{
+		"stage": "N9-12",
+		"stageName": "湖畔の街南部海岸",
+		"st": 10,
+		"recommendLv": 65,
+		"dayLimit": 0,
+		"drops": [
+			"まるごとハム",
+			"炭鉱メロン",
+			"マカロニ"
+		]
+	},
+	{
+		"stage": "N10-1",
+		"stageName": "湖畔の街",
+		"st": 10,
+		"recommendLv": 65,
+		"dayLimit": 0,
+		"drops": [
+			"決闘いも",
+			"こたつミカン",
+			"オウゴンウコン"
+		]
+	},
+	{
+		"stage": "N10-2",
+		"stageName": "湖畔の街",
+		"st": 10,
+		"recommendLv": 65,
+		"dayLimit": 0,
+		"drops": [
+			"クレイジーハーブ",
+			"新寒天",
+			"肉厚ニマイガイ"
+		]
+	},
+	{
+		"stage": "N10-3",
+		"stageName": "湖畔の街",
+		"st": 10,
+		"recommendLv": 65,
+		"dayLimit": 0,
+		"drops": [
+			"てれやリンゴ",
+			"マシュ麿",
+			"∞米"
+		]
+	},
+	{
+		"stage": "N10-4",
+		"stageName": "物理がおすすめ",
+		"st": 10,
+		"recommendLv": 66,
+		"dayLimit": 0,
+		"drops": [
+			"炭鉱メロン",
+			"真っ赤カオ",
+			"ふわっふわパン"
+		]
+	},
+	{
+		"stage": "N10-5",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 66,
+		"dayLimit": 0,
+		"drops": [
+			"ウキウキバナナ",
+			"もちもちの実",
+			"セミブロッコリー"
+		]
+	},
+	{
+		"stage": "N10-6",
+		"stageName": "湖畔の街",
+		"st": 10,
+		"recommendLv": 66,
+		"dayLimit": 0,
+		"drops": [
+			"ミリオンパイ生地",
+			"波乗りノリ",
+			"三戦山椒"
+		]
+	},
+	{
+		"stage": "N10-7",
+		"stageName": "湖畔の街",
+		"st": 10,
+		"recommendLv": 67,
+		"dayLimit": 0,
+		"drops": [
+			"側近イカ",
+			"なんとびっ栗",
+			"ぷりぷりエビ"
+		]
+	},
+	{
+		"stage": "N10-8",
+		"stageName": "湖畔の街",
+		"st": 10,
+		"recommendLv": 67,
+		"dayLimit": 0,
+		"drops": [
+			"ジューシー巻貝",
+			"とっても大豆",
+			"初恋レモン"
+		]
+	},
+	{
+		"stage": "N10-9",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 67,
+		"dayLimit": 0,
+		"drops": [
+			"真っ赤カオ",
+			"ジャックの金の卵",
+			"うまみサボテン"
+		]
+	},
+	{
+		"stage": "N10-10",
+		"stageName": "湖畔の街",
+		"st": 10,
+		"recommendLv": 67,
+		"dayLimit": 0,
+		"drops": [
+			"マシュ麿",
+			"ラブハニー",
+			"塩"
+		]
+	},
+	{
+		"stage": "N10-11",
+		"stageName": "湖畔の街",
+		"st": 10,
+		"recommendLv": 67,
+		"dayLimit": 0,
+		"drops": [
+			"波乗りノリ",
+			"やたら細長いパン",
+			"人食いアナコンダ"
+		]
+	},
+	{
+		"stage": "N10-12",
+		"stageName": "湖畔の街",
+		"st": 10,
+		"recommendLv": 70,
+		"dayLimit": 0,
+		"drops": [
+			"もちもちの実",
+			"サラマンダーハート",
+			"腰ぴっかりん"
+		]
+	},
+	{
+		"stage": "N11-1",
+		"stageName": "湖畔の街北部平原",
+		"st": 10,
+		"recommendLv": 71,
+		"dayLimit": 0,
+		"drops": [
+			"波乗りノリ",
+			"老舗自慢の醤油",
+			"うろ覚えアホガト"
+		]
+	},
+	{
+		"stage": "N11-2",
+		"stageName": "湖畔の街北部平原",
+		"st": 10,
+		"recommendLv": 71,
+		"dayLimit": 0,
+		"drops": [
+			"とっても大豆",
+			"三つ子チェリー",
+			"ヤシの実"
+		]
+	},
+	{
+		"stage": "N11-3",
+		"stageName": "湖畔の街北部平原",
+		"st": 10,
+		"recommendLv": 71,
+		"dayLimit": 0,
+		"drops": [
+			"マシュ麿",
+			"いいねイチゴ",
+			"アリガ糖"
+		]
+	},
+	{
+		"stage": "N11-4",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 71,
+		"dayLimit": 0,
+		"drops": [
+			"こたつミカン",
+			"ざらざらめ",
+			"腰ぴっかりん"
+		]
+	},
+	{
+		"stage": "N11-5",
+		"stageName": "魔法がおすすめ",
+		"st": 10,
+		"recommendLv": 73,
+		"dayLimit": 0,
+		"drops": [
+			"新寒天",
+			"ツンデレわさび",
+			"トロピカルクラブ"
+		]
+	},
+	{
+		"stage": "N11-6",
+		"stageName": "湖畔の街北部平原",
+		"st": 10,
+		"recommendLv": 73,
+		"dayLimit": 0,
+		"drops": [
+			"真っ赤カオ",
+			"シーマロン",
+			"伯爵ポテト"
+		]
+	},
+	{
+		"stage": "N11-7",
+		"stageName": "湖畔の街北部平原",
+		"st": 10,
+		"recommendLv": 73,
+		"dayLimit": 0,
+		"drops": [
+			"ざらざらめ",
+			"決闘いも",
+			"マンホールピザ生地"
+		]
+	},
+	{
+		"stage": "N11-8",
+		"stageName": "湖畔の街北部平原",
+		"st": 10,
+		"recommendLv": 73,
+		"dayLimit": 0,
+		"drops": [
+			"なんとびっ栗",
+			"ジャックの金の卵",
+			"ゴーグルたまねぎ"
+		]
+	},
+	{
+		"stage": "N11-9",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 73,
+		"dayLimit": 0,
+		"drops": [
+			"三つ子チェリー",
+			"ラブハニー",
+			"伝統石臼小麦粉"
+		]
+	},
+	{
+		"stage": "N11-10",
+		"stageName": "湖畔の街北部平原",
+		"st": 10,
+		"recommendLv": 73,
+		"dayLimit": 0,
+		"drops": [
+			"ツンデレわさび",
+			"もちもちの実",
+			"まるごとハム"
+		]
+	},
+	{
+		"stage": "N11-11",
+		"stageName": "湖畔の街北部平原",
+		"st": 10,
+		"recommendLv": 73,
+		"dayLimit": 0,
+		"drops": [
+			"老舗自慢の醤油",
+			"炭鉱メロン",
+			"ナチュラルミネラル岩塩"
+		]
+	},
+	{
+		"stage": "N11-12",
+		"stageName": "湖畔の街北部平原",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"いいねイチゴ",
+			"ウキウキバナナ",
+			"パスタ麵"
+		]
+	},
+	{
+		"stage": "N12-1",
+		"stageName": "南北街道南西部",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"老舗自慢の醤油",
+			"滋養強壮さそり酒",
+			"真紅ワイン"
+		]
+	},
+	{
+		"stage": "N12-2",
+		"stageName": "南北街道南西部",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"極東の香木",
+			"エンペラー青物",
+			"三つ子チェリー"
+		]
+	},
+	{
+		"stage": "N12-3",
+		"stageName": "南北街道南西部",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"いいねイチゴ",
+			"老舗百年味噌",
+			"ジューシー巻貝"
+		]
+	},
+	{
+		"stage": "N12-4",
+		"stageName": "物理がおすすめ",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"ざらざらめ",
+			"レイクサーモンの魚卵",
+			"側近イカ"
+		]
+	},
+	{
+		"stage": "N12-5",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"ツンデレわさび",
+			"ペッタン魚のエンガワ",
+			"クレイジーハーブ"
+		]
+	},
+	{
+		"stage": "N12-6",
+		"stageName": "南北街道南西部",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"シーマロン",
+			"巫女酢",
+			"やたら細長いパン"
+		]
+	},
+	{
+		"stage": "N12-7",
+		"stageName": "南北街道南西部",
+		"st": 10,
+		"recommendLv": 76,
+		"dayLimit": 0,
+		"drops": [
+			"巫女酢",
+			"なんとびっ栗",
+			"ふわっふわパン"
+		]
+	},
+	{
+		"stage": "N12-8",
+		"stageName": "南北街道南西部",
+		"st": 10,
+		"recommendLv": 76,
+		"dayLimit": 0,
+		"drops": [
+			"ペッタン魚のエンガワ",
+			"とっても大豆",
+			"ジャックの金の卵"
+		]
+	},
+	{
+		"stage": "N12-9",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 76,
+		"dayLimit": 0,
+		"drops": [
+			"レイクサーモンの魚卵",
+			"マシュ麿",
+			"サラマンダーハート"
+		]
+	},
+	{
+		"stage": "N12-10",
+		"stageName": "南北街道南西部",
+		"st": 10,
+		"recommendLv": 76,
+		"dayLimit": 0,
+		"drops": [
+			"老舗百年味噌",
+			"真っ赤カオ",
+			"うしのしっぽ"
+		]
+	},
+	{
+		"stage": "N12-11",
+		"stageName": "南北街道南西部",
+		"st": 10,
+		"recommendLv": 76,
+		"dayLimit": 0,
+		"drops": [
+			"エンペラー青物",
+			"もちもちの実",
+			"オウゴンウコン"
+		]
+	},
+	{
+		"stage": "N12-12",
+		"stageName": "南北街道南西部",
+		"st": 10,
+		"recommendLv": 78,
+		"dayLimit": 0,
+		"drops": [
+			"滋養強壮さそり酒",
+			"新寒天",
+			"ナンだこりゃ"
+		]
+	},
+	{
+		"stage": "N13-1",
+		"stageName": "南北街道北東部",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"滋養強壮さそり酒",
+			"レイクサーモン",
+			"とっても大豆"
+		]
+	},
+	{
+		"stage": "N13-2",
+		"stageName": "南北街道北東部",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"エンペラー青物",
+			"マグマウオ",
+			"新寒天"
+		]
+	},
+	{
+		"stage": "N13-3",
+		"stageName": "南北街道北東部",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"老舗百年味噌",
+			"俳聖カジキマグロ",
+			"マシュ麿"
+		]
+	},
+	{
+		"stage": "N13-4",
+		"stageName": "南北街道北東部",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"巫女酢",
+			"ロープウオ",
+			"真っ赤カオ"
+		]
+	},
+	{
+		"stage": "N13-5",
+		"stageName": "魔法がおすすめ",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"老舗自慢の醤油",
+			"二俣ダイコン",
+			"もちもちの実"
+		]
+	},
+	{
+		"stage": "N13-6",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 74,
+		"dayLimit": 0,
+		"drops": [
+			"三つ子チェリー",
+			"レイクサーモンの魚卵",
+			"てれやリンゴ"
+		]
+	},
+	{
+		"stage": "N13-7",
+		"stageName": "南北街道北東部",
+		"st": 10,
+		"recommendLv": 76,
+		"dayLimit": 0,
+		"drops": [
+			"ペッタン魚のエンガワ",
+			"いいねイチゴ",
+			"炭鉱メロン"
+		]
+	},
+	{
+		"stage": "N13-8",
+		"stageName": "南北街道北東部",
+		"st": 10,
+		"recommendLv": 76,
+		"dayLimit": 0,
+		"drops": [
+			"レイクサーモン",
+			"ざらざらめ",
+			"ジャックの金の卵"
+		]
+	},
+	{
+		"stage": "N13-9",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 76,
+		"dayLimit": 0,
+		"drops": [
+			"マグマウオ",
+			"ツンデレわさび",
+			"極東の香木"
+		]
+	},
+	{
+		"stage": "N13-10",
+		"stageName": "南北街道北東部",
+		"st": 10,
+		"recommendLv": 76,
+		"dayLimit": 0,
+		"drops": [
+			"俳聖カジキマグロ",
+			"シーマロン",
+			"ジューシー巻貝"
+		]
+	},
+	{
+		"stage": "N13-11",
+		"stageName": "南北街道北東部",
+		"st": 10,
+		"recommendLv": 76,
+		"dayLimit": 0,
+		"drops": [
+			"ロープウオ",
+			"こたつミカン",
+			"側近イカ"
+		]
+	},
+	{
+		"stage": "N13-12",
+		"stageName": "南北街道北東部",
+		"st": 10,
+		"recommendLv": 78,
+		"dayLimit": 0,
+		"drops": [
+			"二俣ダイコン",
+			"もちもちの実",
+			"クレイジーハーブ"
+		]
+	},
+	{
+		"stage": "N14-1",
+		"stageName": "河畔の街ルノディアノ",
+		"st": 10,
+		"recommendLv": 84,
+		"dayLimit": 0,
+		"drops": [
+			"老舗自慢の醤油",
+			"みぞれウサギ",
+			"三つ子チェリー"
+		]
+	},
+	{
+		"stage": "N14-2",
+		"stageName": "河畔の街ルノディアノ",
+		"st": 10,
+		"recommendLv": 84,
+		"dayLimit": 0,
+		"drops": [
+			"レイクサーモン",
+			"麗しいたけ",
+			"いいねイチゴ"
+		]
+	},
+	{
+		"stage": "N14-3",
+		"stageName": "河畔の街ルノディアノ",
+		"st": 10,
+		"recommendLv": 84,
+		"dayLimit": 0,
+		"drops": [
+			"マグマウオ",
+			"祟りいのししの霜降り",
+			"ざらざらめ"
+		]
+	},
+	{
+		"stage": "N14-4",
+		"stageName": "物理がおすすめ",
+		"st": 10,
+		"recommendLv": 84,
+		"dayLimit": 0,
+		"drops": [
+			"俳聖カジキマグロ",
+			"ドキャベツ",
+			"ツンデレわさび"
+		]
+	},
+	{
+		"stage": "N14-5",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 84,
+		"dayLimit": 0,
+		"drops": [
+			"ロープウオ",
+			"ミノタウロスのホルモン",
+			"シーマロン"
+		]
+	},
+	{
+		"stage": "N14-6",
+		"stageName": "河畔の街ルノディアノ",
+		"st": 10,
+		"recommendLv": 84,
+		"dayLimit": 0,
+		"drops": [
+			"二俣ダイコン",
+			"ツンデレわさび",
+			"波乗りノリ"
+		]
+	},
+	{
+		"stage": "N14-7",
+		"stageName": "河畔の街ルノディアノ",
+		"st": 10,
+		"recommendLv": 86,
+		"dayLimit": 0,
+		"drops": [
+			"ざらざらめ",
+			"滋養強壮さそり酒",
+			"なんとびっ栗"
+		]
+	},
+	{
+		"stage": "N14-8",
+		"stageName": "河畔の街ルノディアノ",
+		"st": 10,
+		"recommendLv": 86,
+		"dayLimit": 0,
+		"drops": [
+			"みぞれウサギ",
+			"エンペラー青物",
+			"とっても大豆"
+		]
+	},
+	{
+		"stage": "N14-9",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 86,
+		"dayLimit": 0,
+		"drops": [
+			"麗しいたけ",
+			"創業百年味噌",
+			"真っ赤カオ"
+		]
+	},
+	{
+		"stage": "N14-10",
+		"stageName": "河畔の街ルノディアノ",
+		"st": 10,
+		"recommendLv": 86,
+		"dayLimit": 0,
+		"drops": [
+			"祟りいのししの霜降り",
+			"レイクサーモンの魚卵",
+			"もちもちの実"
+		]
+	},
+	{
+		"stage": "N14-11",
+		"stageName": "河畔の街ルノディアノ",
+		"st": 10,
+		"recommendLv": 86,
+		"dayLimit": 0,
+		"drops": [
+			"ドキャベツ",
+			"ペッタン魚のエンガワ",
+			"こたつミカン"
+		]
+	},
+	{
+		"stage": "N14-12",
+		"stageName": "河畔の街ルノディアノ",
+		"st": 10,
+		"recommendLv": 88,
+		"dayLimit": 0,
+		"drops": [
+			"ミノタウロスのホルモン",
+			"巫女酢",
+			"新寒天"
+		]
+	},
+	{
+		"stage": "N15-1",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 88,
+		"dayLimit": 0,
+		"drops": [
+			"ガチ芳醇キノコ",
+			"ミノタウロスのホルモン",
+			"レイクサーモンの魚卵"
+		]
+	},
+	{
+		"stage": "N15-2",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 88,
+		"dayLimit": 0,
+		"drops": [
+			"やるきナス",
+			"レイクサーモン",
+			"ペッタン魚のエンガワ"
+		]
+	},
+	{
+		"stage": "N15-3",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 88,
+		"dayLimit": 0,
+		"drops": [
+			"ぶあつい菜",
+			"マグマウオ",
+			"巫女酢"
+		]
+	},
+	{
+		"stage": "N15-4",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 88,
+		"dayLimit": 0,
+		"drops": [
+			"動物性油脂",
+			"俳聖カジキマグロ",
+			"滋養強壮さそり酒"
+		]
+	},
+	{
+		"stage": "N15-5",
+		"stageName": "魔法がおすすめ",
+		"st": 10,
+		"recommendLv": 88,
+		"dayLimit": 0,
+		"drops": [
+			"ニラみつける",
+			"ロープウオ",
+			"エンペラー青物"
+		]
+	},
+	{
+		"stage": "N15-6",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 88,
+		"dayLimit": 0,
+		"drops": [
+			"ふたごソーセージ",
+			"二俣ダイコン",
+			"老舗自慢の醤油"
+		]
+	},
+	{
+		"stage": "N15-7",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 89,
+		"dayLimit": 0,
+		"drops": [
+			"霊峰の岩塩",
+			"創業百年味噌",
+			"三つ子チェリー"
+		]
+	},
+	{
+		"stage": "N15-8",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 89,
+		"dayLimit": 0,
+		"drops": [
+			"ミルキーヤドカリ",
+			"巫女酢",
+			"いいねイチゴ"
+		]
+	},
+	{
+		"stage": "N15-9",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 89,
+		"dayLimit": 0,
+		"drops": [
+			"みぞれウサギ",
+			"ガチ芳醇キノコ",
+			"ざらざらめ"
+		]
+	},
+	{
+		"stage": "N15-10",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 89,
+		"dayLimit": 0,
+		"drops": [
+			"麗しいたけ",
+			"やるきナス",
+			"ツンデレわさび"
+		]
+	},
+	{
+		"stage": "N15-11",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 89,
+		"dayLimit": 0,
+		"drops": [
+			"祟りいのししの霜降り",
+			"動物性油脂",
+			"シーマロン"
+		]
+	},
+	{
+		"stage": "N15-12",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 91,
+		"dayLimit": 0,
+		"drops": [
+			"ドキャベツ",
+			"霊峰の岩塩",
+			"波乗りノリ"
+		]
+	},
+	{
+		"stage": "N16-1",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 91,
+		"dayLimit": 0,
+		"drops": [
+			"公爵イモ",
+			"ミルキーヤドカリ",
+			"レイクサーモン"
+		]
+	},
+	{
+		"stage": "N16-2",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 91,
+		"dayLimit": 0,
+		"drops": [
+			"プライドオニオン",
+			"みぞれウサギ",
+			"マグマウオ"
+		]
+	},
+	{
+		"stage": "N16-3",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 91,
+		"dayLimit": 0,
+		"drops": [
+			"エレメンタルバター",
+			"麗しいたけ",
+			"俳聖カジキマグロ"
+		]
+	},
+	{
+		"stage": "N16-4",
+		"stageName": "物理がおすすめ",
+		"st": 10,
+		"recommendLv": 91,
+		"dayLimit": 0,
+		"drops": [
+			"ピンクペッパー",
+			"祟りいのししの霜降り",
+			"ロープウオ"
+		]
+	},
+	{
+		"stage": "N16-5",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 91,
+		"dayLimit": 0,
+		"drops": [
+			"スケトル鱈",
+			"ドキャベツ",
+			"滋養強壮さそり酒"
+		]
+	},
+	{
+		"stage": "N16-6",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 91,
+		"dayLimit": 0,
+		"drops": [
+			"ガチ芳醇キノコ",
+			"ミノタウロスのホルモン",
+			"エンペラー青物"
+		]
+	},
+	{
+		"stage": "N16-7",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 92,
+		"dayLimit": 0,
+		"drops": [
+			"やるきナス",
+			"二俣ダイコン",
+			"創業百年味噌"
+		]
+	},
+	{
+		"stage": "N16-8",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 92,
+		"dayLimit": 0,
+		"drops": [
+			"ぶあつい菜",
+			"公爵イモ",
+			"レイクサーモンの魚卵"
+		]
+	},
+	{
+		"stage": "N16-9",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 92,
+		"dayLimit": 0,
+		"drops": [
+			"動物性油脂",
+			"プライドオニオン",
+			"ペッタン魚のエンガワ"
+		]
+	},
+	{
+		"stage": "N16-10",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 92,
+		"dayLimit": 0,
+		"drops": [
+			"ニラみつける",
+			"エレメンタルバター",
+			"巫女酢"
+		]
+	},
+	{
+		"stage": "N16-11",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 92,
+		"dayLimit": 0,
+		"drops": [
+			"ふたごソーセージ",
+			"ピンクペッパー",
+			"老舗自慢の醤油"
+		]
+	},
+	{
+		"stage": "N16-12",
+		"stageName": "ラプラス川上流域",
+		"st": 10,
+		"recommendLv": 94,
+		"dayLimit": 0,
+		"drops": [
+			"霊峰の岩塩",
+			"スケトル鱈",
+			"ざらざらめ"
+		]
+	},
+	{
+		"stage": "N17-1",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 94,
+		"dayLimit": 0,
+		"drops": [
+			"世界樹のカブ",
+			"スケトル鱈",
+			"みぞれウサギ"
+		]
+	},
+	{
+		"stage": "N17-2",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 94,
+		"dayLimit": 0,
+		"drops": [
+			"金色コンソメ",
+			"やるきナス",
+			"麗しいたけ"
+		]
+	},
+	{
+		"stage": "N17-3",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 94,
+		"dayLimit": 0,
+		"drops": [
+			"ランカーホワイトバス",
+			"ぶあつい菜",
+			"祟りいのししの霜降り"
+		]
+	},
+	{
+		"stage": "N17-4",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 94,
+		"dayLimit": 0,
+		"drops": [
+			"パウダースノー小麦粉",
+			"ニラみつける",
+			"ドキャベツ"
+		]
+	},
+	{
+		"stage": "N17-5",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 94,
+		"dayLimit": 0,
+		"drops": [
+			"祝い鯛",
+			"ふたごソーセージ",
+			"ミノタウロスのホルモン"
+		]
+	},
+	{
+		"stage": "N17-6",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 94,
+		"dayLimit": 0,
+		"drops": [
+			"オリオンオイル",
+			"ミルキーヤドカリ",
+			"レイクサーモン"
+		]
+	},
+	{
+		"stage": "N17-7",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 95,
+		"dayLimit": 0,
+		"drops": [
+			"高貴ニンジン",
+			"霊峰の岩塩",
+			"マグマウオ"
+		]
+	},
+	{
+		"stage": "N17-8",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 95,
+		"dayLimit": 0,
+		"drops": [
+			"すっごく高そうな赤ワイン",
+			"ガチ芳醇キノコ",
+			"俳聖カジキマグロ"
+		]
+	},
+	{
+		"stage": "N17-9",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 95,
+		"dayLimit": 0,
+		"drops": [
+			"公爵イモ",
+			"オリオンオイル",
+			"ロープウオ"
+		]
+	},
+	{
+		"stage": "N17-10",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 95,
+		"dayLimit": 0,
+		"drops": [
+			"プライドオニオン",
+			"高貴ニンジン",
+			"二俣ダイコン"
+		]
+	},
+	{
+		"stage": "N17-11",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 95,
+		"dayLimit": 0,
+		"drops": [
+			"エレメンタルバター",
+			"すっごく高そうな赤ワイン",
+			"滋養強壮さそり酒"
+		]
+	},
+	{
+		"stage": "N17-12",
+		"stageName": "常冬山脈山中",
+		"st": 10,
+		"recommendLv": 96,
+		"dayLimit": 0,
+		"drops": [
+			"ピンクペッパー",
+			"世界樹のカブ",
+			"創業百年味噌"
+		]
+	},
+	{
+		"stage": "N18-1",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 96,
+		"dayLimit": 0,
+		"drops": [
+			"太った鳥の肝",
+			"世界樹のカブ",
+			"ふたごソーセージ"
+		]
+	},
+	{
+		"stage": "N18-2",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 96,
+		"dayLimit": 0,
+		"drops": [
+			"おいしいカモ",
+			"公爵イモ",
+			"霊峰の岩塩"
+		]
+	},
+	{
+		"stage": "N18-3",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 96,
+		"dayLimit": 0,
+		"drops": [
+			"まんまるキノコ",
+			"プライドオニオン",
+			"ミルキーヤドカリ"
+		]
+	},
+	{
+		"stage": "N18-4",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 96,
+		"dayLimit": 0,
+		"drops": [
+			"めちゃやわラム肉",
+			"エレメンタルバター",
+			"ぶあつい菜"
+		]
+	},
+	{
+		"stage": "N18-5",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 96,
+		"dayLimit": 0,
+		"drops": [
+			"エイリアンキャトルエピス",
+			"ピンクペッパー",
+			"動物性油脂"
+		]
+	},
+	{
+		"stage": "N18-6",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 96,
+		"dayLimit": 0,
+		"drops": [
+			"ミノタウロスの上モモ",
+			"スケトル鱈",
+			"ニラみつける"
+		]
+	},
+	{
+		"stage": "N18-7",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 97,
+		"dayLimit": 0,
+		"drops": [
+			"ランカーホワイトバス",
+			"太った鳥の肝",
+			"ガチ芳醇キノコ"
+		]
+	},
+	{
+		"stage": "N18-8",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 97,
+		"dayLimit": 0,
+		"drops": [
+			"パウダースノー小麦粉",
+			"おいしいカモ",
+			"やるきナス"
+		]
+	},
+	{
+		"stage": "N18-9",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 97,
+		"dayLimit": 0,
+		"drops": [
+			"祝い鯛",
+			"まんまるキノコ",
+			"みぞれウサギ"
+		]
+	},
+	{
+		"stage": "N18-10",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 97,
+		"dayLimit": 0,
+		"drops": [
+			"オリオンオイル",
+			"めちゃやわラム肉",
+			"麗しいたけ"
+		]
+	},
+	{
+		"stage": "N18-11",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 97,
+		"dayLimit": 0,
+		"drops": [
+			"高貴ニンジン",
+			"エイリアンキャトルエピス",
+			"ミノタウロスのホルモン"
+		]
+	},
+	{
+		"stage": "N18-12",
+		"stageName": "常冬の村",
+		"st": 10,
+		"recommendLv": 98,
+		"dayLimit": 0,
+		"drops": [
+			"すっごく高そうな赤ワイン",
+			"ミノタウロスの上モモ",
+			"マグマウオ"
+		]
+	},
+	{
+		"stage": "N19-1",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 98,
+		"dayLimit": 0,
+		"drops": [
+			"地竜の肉",
+			"世界樹のカブ",
+			"エレメンタルバター"
+		]
+	},
+	{
+		"stage": "N19-2",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 98,
+		"dayLimit": 0,
+		"drops": [
+			"たわわブドウ",
+			"金色コンソメ",
+			"ピンクペッパー"
+		]
+	},
+	{
+		"stage": "N19-3",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 98,
+		"dayLimit": 0,
+		"drops": [
+			"オークの秘蔵キノコ",
+			"ランカーホワイトバス",
+			"スケトル鱈"
+		]
+	},
+	{
+		"stage": "N19-4",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 98,
+		"dayLimit": 0,
+		"drops": [
+			"デモングラスソース",
+			"パウダースノー小麦粉",
+			"公爵イモ"
+		]
+	},
+	{
+		"stage": "N19-5",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 98,
+		"dayLimit": 0,
+		"drops": [
+			"太った鳥の肝",
+			"祝い鯛",
+			"ガチ芳醇キノコ"
+		]
+	},
+	{
+		"stage": "N19-6",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 98,
+		"dayLimit": 0,
+		"drops": [
+			"おいしいカモ",
+			"オリオンオイル",
+			"やるきナス"
+		]
+	},
+	{
+		"stage": "N19-7",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 99,
+		"dayLimit": 0,
+		"drops": [
+			"まんまるキノコ",
+			"高貴ニンジン",
+			"ぶあつい菜"
+		]
+	},
+	{
+		"stage": "N19-8",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 99,
+		"dayLimit": 0,
+		"drops": [
+			"めちゃやわラム肉",
+			"すっごく高そうな赤ワイン",
+			"動物性油脂"
+		]
+	},
+	{
+		"stage": "N19-9",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 99,
+		"dayLimit": 0,
+		"drops": [
+			"エイリアンキャトルエピス",
+			"地竜の肉",
+			"ニラみつける"
+		]
+	},
+	{
+		"stage": "N19-10",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 99,
+		"dayLimit": 0,
+		"drops": [
+			"ミノタウロスの上モモ",
+			"たわわブドウ",
+			"ふたごソーセージ"
+		]
+	},
+	{
+		"stage": "N19-11",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 99,
+		"dayLimit": 0,
+		"drops": [
+			"公爵イモ",
+			"オークの秘蔵キノコ",
+			"霊峰の岩塩"
+		]
+	},
+	{
+		"stage": "N19-12",
+		"stageName": "秋冬山道",
+		"st": 10,
+		"recommendLv": 100,
+		"dayLimit": 0,
+		"drops": [
+			"プライドオニオン",
+			"デモングラスソース",
+			"ミルキーヤドカリ"
+		]
+	}
+]

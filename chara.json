@@ -1,0 +1,1213 @@
+[
+  {
+    "charaLv": 1,
+    "requireExp": 0,
+    "totalExp": 0,
+    "skillCost": 0,
+    "totalSkillCost": 0
+  },
+  {
+    "charaLv": 2,
+    "requireExp": 17,
+    "totalExp": 17,
+    "skillCost": 100,
+    "totalSkillCost": 100
+  },
+  {
+    "charaLv": 3,
+    "requireExp": 23,
+    "totalExp": 40,
+    "skillCost": 130,
+    "totalSkillCost": 230
+  },
+  {
+    "charaLv": 4,
+    "requireExp": 29,
+    "totalExp": 69,
+    "skillCost": 160,
+    "totalSkillCost": 390
+  },
+  {
+    "charaLv": 5,
+    "requireExp": 35,
+    "totalExp": 104,
+    "skillCost": 190,
+    "totalSkillCost": 580
+  },
+  {
+    "charaLv": 6,
+    "requireExp": 41,
+    "totalExp": 145,
+    "skillCost": 220,
+    "totalSkillCost": 800
+  },
+  {
+    "charaLv": 7,
+    "requireExp": 47,
+    "totalExp": 192,
+    "skillCost": 250,
+    "totalSkillCost": 1050
+  },
+  {
+    "charaLv": 8,
+    "requireExp": 53,
+    "totalExp": 245,
+    "skillCost": 280,
+    "totalSkillCost": 1330
+  },
+  {
+    "charaLv": 9,
+    "requireExp": 59,
+    "totalExp": 304,
+    "skillCost": 310,
+    "totalSkillCost": 1640
+  },
+  {
+    "charaLv": 10,
+    "requireExp": 65,
+    "totalExp": 369,
+    "skillCost": 340,
+    "totalSkillCost": 1980
+  },
+  {
+    "charaLv": 11,
+    "requireExp": 71,
+    "totalExp": 440,
+    "skillCost": 370,
+    "totalSkillCost": 2350
+  },
+  {
+    "charaLv": 12,
+    "requireExp": 77,
+    "totalExp": 517,
+    "skillCost": 400,
+    "totalSkillCost": 2750
+  },
+  {
+    "charaLv": 13,
+    "requireExp": 83,
+    "totalExp": 600,
+    "skillCost": 430,
+    "totalSkillCost": 3180
+  },
+  {
+    "charaLv": 14,
+    "requireExp": 89,
+    "totalExp": 689,
+    "skillCost": 460,
+    "totalSkillCost": 3640
+  },
+  {
+    "charaLv": 15,
+    "requireExp": 95,
+    "totalExp": 784,
+    "skillCost": 490,
+    "totalSkillCost": 4130
+  },
+  {
+    "charaLv": 16,
+    "requireExp": 101,
+    "totalExp": 885,
+    "skillCost": 520,
+    "totalSkillCost": 4650
+  },
+  {
+    "charaLv": 17,
+    "requireExp": 111,
+    "totalExp": 996,
+    "skillCost": 580,
+    "totalSkillCost": 5230
+  },
+  {
+    "charaLv": 18,
+    "requireExp": 121,
+    "totalExp": 1117,
+    "skillCost": 660,
+    "totalSkillCost": 5890
+  },
+  {
+    "charaLv": 19,
+    "requireExp": 131,
+    "totalExp": 1248,
+    "skillCost": 760,
+    "totalSkillCost": 6650
+  },
+  {
+    "charaLv": 20,
+    "requireExp": 141,
+    "totalExp": 1389,
+    "skillCost": 880,
+    "totalSkillCost": 7530
+  },
+  {
+    "charaLv": 21,
+    "requireExp": 151,
+    "totalExp": 1540,
+    "skillCost": 1020,
+    "totalSkillCost": 8550
+  },
+  {
+    "charaLv": 22,
+    "requireExp": 161,
+    "totalExp": 1701,
+    "skillCost": 1180,
+    "totalSkillCost": 9730
+  },
+  {
+    "charaLv": 23,
+    "requireExp": 171,
+    "totalExp": 1872,
+    "skillCost": 1360,
+    "totalSkillCost": 11090
+  },
+  {
+    "charaLv": 24,
+    "requireExp": 181,
+    "totalExp": 2053,
+    "skillCost": 1560,
+    "totalSkillCost": 12650
+  },
+  {
+    "charaLv": 25,
+    "requireExp": 191,
+    "totalExp": 2244,
+    "skillCost": 1780,
+    "totalSkillCost": 14430
+  },
+  {
+    "charaLv": 26,
+    "requireExp": 211,
+    "totalExp": 2455,
+    "skillCost": 2020,
+    "totalSkillCost": 16450
+  },
+  {
+    "charaLv": 27,
+    "requireExp": 236,
+    "totalExp": 2691,
+    "skillCost": 2280,
+    "totalSkillCost": 18730
+  },
+  {
+    "charaLv": 28,
+    "requireExp": 266,
+    "totalExp": 2957,
+    "skillCost": 2560,
+    "totalSkillCost": 21290
+  },
+  {
+    "charaLv": 29,
+    "requireExp": 301,
+    "totalExp": 3258,
+    "skillCost": 2860,
+    "totalSkillCost": 24150
+  },
+  {
+    "charaLv": 30,
+    "requireExp": 341,
+    "totalExp": 3599,
+    "skillCost": 3180,
+    "totalSkillCost": 27330
+  },
+  {
+    "charaLv": 31,
+    "requireExp": 386,
+    "totalExp": 3985,
+    "skillCost": 3520,
+    "totalSkillCost": 30850
+  },
+  {
+    "charaLv": 32,
+    "requireExp": 436,
+    "totalExp": 4421,
+    "skillCost": 3880,
+    "totalSkillCost": 34730
+  },
+  {
+    "charaLv": 33,
+    "requireExp": 491,
+    "totalExp": 4912,
+    "skillCost": 4260,
+    "totalSkillCost": 38990
+  },
+  {
+    "charaLv": 34,
+    "requireExp": 551,
+    "totalExp": 5463,
+    "skillCost": 4660,
+    "totalSkillCost": 43650
+  },
+  {
+    "charaLv": 35,
+    "requireExp": 616,
+    "totalExp": 6079,
+    "skillCost": 5080,
+    "totalSkillCost": 48730
+  },
+  {
+    "charaLv": 36,
+    "requireExp": 686,
+    "totalExp": 6765,
+    "skillCost": 5520,
+    "totalSkillCost": 54250
+  },
+  {
+    "charaLv": 37,
+    "requireExp": 761,
+    "totalExp": 7526,
+    "skillCost": 5980,
+    "totalSkillCost": 60230
+  },
+  {
+    "charaLv": 38,
+    "requireExp": 841,
+    "totalExp": 8367,
+    "skillCost": 6460,
+    "totalSkillCost": 66690
+  },
+  {
+    "charaLv": 39,
+    "requireExp": 926,
+    "totalExp": 9293,
+    "skillCost": 6960,
+    "totalSkillCost": 73650
+  },
+  {
+    "charaLv": 40,
+    "requireExp": 1016,
+    "totalExp": 10309,
+    "skillCost": 7480,
+    "totalSkillCost": 81130
+  },
+  {
+    "charaLv": 41,
+    "requireExp": 1111,
+    "totalExp": 11420,
+    "skillCost": 8020,
+    "totalSkillCost": 89150
+  },
+  {
+    "charaLv": 42,
+    "requireExp": 1211,
+    "totalExp": 12631,
+    "skillCost": 8580,
+    "totalSkillCost": 97730
+  },
+  {
+    "charaLv": 43,
+    "requireExp": 1331,
+    "totalExp": 13962,
+    "skillCost": 9160,
+    "totalSkillCost": 106890
+  },
+  {
+    "charaLv": 44,
+    "requireExp": 1471,
+    "totalExp": 15433,
+    "skillCost": 9760,
+    "totalSkillCost": 116650
+  },
+  {
+    "charaLv": 45,
+    "requireExp": 1631,
+    "totalExp": 17064,
+    "skillCost": 10380,
+    "totalSkillCost": 127030
+  },
+  {
+    "charaLv": 46,
+    "requireExp": 1811,
+    "totalExp": 18875,
+    "skillCost": 11020,
+    "totalSkillCost": 138050
+  },
+  {
+    "charaLv": 47,
+    "requireExp": 2011,
+    "totalExp": 20886,
+    "skillCost": 11680,
+    "totalSkillCost": 149730
+  },
+  {
+    "charaLv": 48,
+    "requireExp": 2231,
+    "totalExp": 23117,
+    "skillCost": 12360,
+    "totalSkillCost": 162090
+  },
+  {
+    "charaLv": 49,
+    "requireExp": 2471,
+    "totalExp": 25588,
+    "skillCost": 13060,
+    "totalSkillCost": 175150
+  },
+  {
+    "charaLv": 50,
+    "requireExp": 2731,
+    "totalExp": 28319,
+    "skillCost": 13780,
+    "totalSkillCost": 188930
+  },
+  {
+    "charaLv": 51,
+    "requireExp": 3031,
+    "totalExp": 31350,
+    "skillCost": 14520,
+    "totalSkillCost": 203450
+  },
+  {
+    "charaLv": 52,
+    "requireExp": 3381,
+    "totalExp": 34731,
+    "skillCost": 15280,
+    "totalSkillCost": 218730
+  },
+  {
+    "charaLv": 53,
+    "requireExp": 3781,
+    "totalExp": 38512,
+    "skillCost": 16060,
+    "totalSkillCost": 234790
+  },
+  {
+    "charaLv": 54,
+    "requireExp": 4181,
+    "totalExp": 42693,
+    "skillCost": 16860,
+    "totalSkillCost": 251650
+  },
+  {
+    "charaLv": 55,
+    "requireExp": 4581,
+    "totalExp": 47274,
+    "skillCost": 17660,
+    "totalSkillCost": 269310
+  },
+  {
+    "charaLv": 56,
+    "requireExp": 4981,
+    "totalExp": 52255,
+    "skillCost": 18460,
+    "totalSkillCost": 287770
+  },
+  {
+    "charaLv": 57,
+    "requireExp": 5381,
+    "totalExp": 57636,
+    "skillCost": 19260,
+    "totalSkillCost": 307030
+  },
+  {
+    "charaLv": 58,
+    "requireExp": 5781,
+    "totalExp": 63417,
+    "skillCost": 20060,
+    "totalSkillCost": 327090
+  },
+  {
+    "charaLv": 59,
+    "requireExp": 6181,
+    "totalExp": 69598,
+    "skillCost": 20860,
+    "totalSkillCost": 347950
+  },
+  {
+    "charaLv": 60,
+    "requireExp": 6581,
+    "totalExp": 76179,
+    "skillCost": 21660,
+    "totalSkillCost": 369610
+  },
+  {
+    "charaLv": 61,
+    "requireExp": 6981,
+    "totalExp": 83160,
+    "skillCost": 22460,
+    "totalSkillCost": 392070
+  },
+  {
+    "charaLv": 62,
+    "requireExp": 7431,
+    "totalExp": 90591,
+    "skillCost": 23260,
+    "totalSkillCost": 415330
+  },
+  {
+    "charaLv": 63,
+    "requireExp": 7881,
+    "totalExp": 98472,
+    "skillCost": 24060,
+    "totalSkillCost": 439390
+  },
+  {
+    "charaLv": 64,
+    "requireExp": 8331,
+    "totalExp": 106803,
+    "skillCost": 24860,
+    "totalSkillCost": 464250
+  },
+  {
+    "charaLv": 65,
+    "requireExp": 8781,
+    "totalExp": 115584,
+    "skillCost": 25660,
+    "totalSkillCost": 489910
+  },
+  {
+    "charaLv": 66,
+    "requireExp": 9231,
+    "totalExp": 124815,
+    "skillCost": 26460,
+    "totalSkillCost": 516370
+  },
+  {
+    "charaLv": 67,
+    "requireExp": 9681,
+    "totalExp": 134496,
+    "skillCost": 27260,
+    "totalSkillCost": 543630
+  },
+  {
+    "charaLv": 68,
+    "requireExp": 10131,
+    "totalExp": 144627,
+    "skillCost": 28060,
+    "totalSkillCost": 571690
+  },
+  {
+    "charaLv": 69,
+    "requireExp": 10581,
+    "totalExp": 155208,
+    "skillCost": 28860,
+    "totalSkillCost": 600550
+  },
+  {
+    "charaLv": 70,
+    "requireExp": 11031,
+    "totalExp": 166239,
+    "skillCost": 29660,
+    "totalSkillCost": 630210
+  },
+  {
+    "charaLv": 71,
+    "requireExp": 11481,
+    "totalExp": 177720,
+    "skillCost": 30460,
+    "totalSkillCost": 660670
+  },
+  {
+    "charaLv": 72,
+    "requireExp": 11931,
+    "totalExp": 189651,
+    "skillCost": 31260,
+    "totalSkillCost": 691930
+  },
+  {
+    "charaLv": 73,
+    "requireExp": 12381,
+    "totalExp": 202032,
+    "skillCost": 32060,
+    "totalSkillCost": 723990
+  },
+  {
+    "charaLv": 74,
+    "requireExp": 12831,
+    "totalExp": 214863,
+    "skillCost": 32860,
+    "totalSkillCost": 756850
+  },
+  {
+    "charaLv": 75,
+    "requireExp": 13281,
+    "totalExp": 228144,
+    "skillCost": 33660,
+    "totalSkillCost": 790510
+  },
+  {
+    "charaLv": 76,
+    "requireExp": 13731,
+    "totalExp": 241875,
+    "skillCost": 34460,
+    "totalSkillCost": 824970
+  },
+  {
+    "charaLv": 77,
+    "requireExp": 14181,
+    "totalExp": 256056,
+    "skillCost": 35260,
+    "totalSkillCost": 860230
+  },
+  {
+    "charaLv": 78,
+    "requireExp": 14631,
+    "totalExp": 270687,
+    "skillCost": 36060,
+    "totalSkillCost": 896290
+  },
+  {
+    "charaLv": 79,
+    "requireExp": 15081,
+    "totalExp": 285768,
+    "skillCost": 36860,
+    "totalSkillCost": 933150
+  },
+  {
+    "charaLv": 80,
+    "requireExp": 15531,
+    "totalExp": 301299,
+    "skillCost": 37660,
+    "totalSkillCost": 970810
+  },
+  {
+    "charaLv": 81,
+    "requireExp": 15981,
+    "totalExp": 317280,
+    "skillCost": 38460,
+    "totalSkillCost": 1009270
+  },
+  {
+    "charaLv": 82,
+    "requireExp": 16431,
+    "totalExp": 333711,
+    "skillCost": 39260,
+    "totalSkillCost": 1048530
+  },
+  {
+    "charaLv": 83,
+    "requireExp": 16881,
+    "totalExp": 350592,
+    "skillCost": 40060,
+    "totalSkillCost": 1088590
+  },
+  {
+    "charaLv": 84,
+    "requireExp": 17331,
+    "totalExp": 367923,
+    "skillCost": 40860,
+    "totalSkillCost": 1129450
+  },
+  {
+    "charaLv": 85,
+    "requireExp": 17781,
+    "totalExp": 385704,
+    "skillCost": 41660,
+    "totalSkillCost": 1171110
+  },
+  {
+    "charaLv": 86,
+    "requireExp": 18231,
+    "totalExp": 403935,
+    "skillCost": 42460,
+    "totalSkillCost": 1213570
+  },
+  {
+    "charaLv": 87,
+    "requireExp": 18681,
+    "totalExp": 422616,
+    "skillCost": 43260,
+    "totalSkillCost": 1256830
+  },
+  {
+    "charaLv": 88,
+    "requireExp": 19131,
+    "totalExp": 441747,
+    "skillCost": 44060,
+    "totalSkillCost": 1300890
+  },
+  {
+    "charaLv": 89,
+    "requireExp": 19581,
+    "totalExp": 461328,
+    "skillCost": 44860,
+    "totalSkillCost": 1345750
+  },
+  {
+    "charaLv": 90,
+    "requireExp": 20031,
+    "totalExp": 481359,
+    "skillCost": 45660,
+    "totalSkillCost": 1391410
+  },
+  {
+    "charaLv": 91,
+    "requireExp": 20481,
+    "totalExp": 501840,
+    "skillCost": 46460,
+    "totalSkillCost": 1437870
+  },
+  {
+    "charaLv": 92,
+    "requireExp": 20981,
+    "totalExp": 522821,
+    "skillCost": 47260,
+    "totalSkillCost": 1485130
+  },
+  {
+    "charaLv": 93,
+    "requireExp": 21481,
+    "totalExp": 544302,
+    "skillCost": 48060,
+    "totalSkillCost": 1533190
+  },
+  {
+    "charaLv": 94,
+    "requireExp": 21981,
+    "totalExp": 566283,
+    "skillCost": 48860,
+    "totalSkillCost": 1582050
+  },
+  {
+    "charaLv": 95,
+    "requireExp": 22481,
+    "totalExp": 588764,
+    "skillCost": 49660,
+    "totalSkillCost": 1631710
+  },
+  {
+    "charaLv": 96,
+    "requireExp": 22981,
+    "totalExp": 611745,
+    "skillCost": 50460,
+    "totalSkillCost": 1682170
+  },
+  {
+    "charaLv": 97,
+    "requireExp": 23481,
+    "totalExp": 635226,
+    "skillCost": 51260,
+    "totalSkillCost": 1733430
+  },
+  {
+    "charaLv": 98,
+    "requireExp": 23981,
+    "totalExp": 659207,
+    "skillCost": 52060,
+    "totalSkillCost": 1785490
+  },
+  {
+    "charaLv": 99,
+    "requireExp": 24481,
+    "totalExp": 683688,
+    "skillCost": 52860,
+    "totalSkillCost": 1838350
+  },
+  {
+    "charaLv": 100,
+    "requireExp": 24981,
+    "totalExp": 708669,
+    "skillCost": 53660,
+    "totalSkillCost": 1892010
+  },
+  {
+    "charaLv": 101,
+    "requireExp": 25481,
+    "totalExp": 734150,
+    "skillCost": 54460,
+    "totalSkillCost": 1946470
+  },
+  {
+    "charaLv": 102,
+    "requireExp": 25981,
+    "totalExp": 760131,
+    "skillCost": 55260,
+    "totalSkillCost": 2001730
+  },
+  {
+    "charaLv": 103,
+    "requireExp": 26481,
+    "totalExp": 786612,
+    "skillCost": 56060,
+    "totalSkillCost": 2057790
+  },
+  {
+    "charaLv": 104,
+    "requireExp": 26981,
+    "totalExp": 813593,
+    "skillCost": 56860,
+    "totalSkillCost": 2114650
+  },
+  {
+    "charaLv": 105,
+    "requireExp": 27481,
+    "totalExp": 841074,
+    "skillCost": 57660,
+    "totalSkillCost": 2172310
+  },
+  {
+    "charaLv": 106,
+    "requireExp": 27981,
+    "totalExp": 869055,
+    "skillCost": 58460,
+    "totalSkillCost": 2230770
+  },
+  {
+    "charaLv": 107,
+    "requireExp": 28481,
+    "totalExp": 897536,
+    "skillCost": 59260,
+    "totalSkillCost": 2290030
+  },
+  {
+    "charaLv": 108,
+    "requireExp": 28981,
+    "totalExp": 926517,
+    "skillCost": 60060,
+    "totalSkillCost": 2350090
+  },
+  {
+    "charaLv": 109,
+    "requireExp": 29481,
+    "totalExp": 955998,
+    "skillCost": 60860,
+    "totalSkillCost": 2410950
+  },
+  {
+    "charaLv": 110,
+    "requireExp": 29981,
+    "totalExp": 985979,
+    "skillCost": 61660,
+    "totalSkillCost": 2472610
+  },
+  {
+    "charaLv": 111,
+    "requireExp": 30481,
+    "totalExp": 1016460,
+    "skillCost": 62460,
+    "totalSkillCost": 2535070
+  },
+  {
+    "charaLv": 112,
+    "requireExp": 30981,
+    "totalExp": 1047441,
+    "skillCost": 63260,
+    "totalSkillCost": 2598330
+  },
+  {
+    "charaLv": 113,
+    "requireExp": 31481,
+    "totalExp": 1078922,
+    "skillCost": 64060,
+    "totalSkillCost": 2662390
+  },
+  {
+    "charaLv": 114,
+    "requireExp": 31981,
+    "totalExp": 1110903,
+    "skillCost": 64860,
+    "totalSkillCost": 2727250
+  },
+  {
+    "charaLv": 115,
+    "requireExp": 32481,
+    "totalExp": 1143384,
+    "skillCost": 65660,
+    "totalSkillCost": 2792910
+  },
+  {
+    "charaLv": 116,
+    "requireExp": 32981,
+    "totalExp": 1176365,
+    "skillCost": 66460,
+    "totalSkillCost": 2859370
+  },
+  {
+    "charaLv": 117,
+    "requireExp": 33481,
+    "totalExp": 1209846,
+    "skillCost": 67260,
+    "totalSkillCost": 2926630
+  },
+  {
+    "charaLv": 118,
+    "requireExp": 33981,
+    "totalExp": 1243827,
+    "skillCost": 68060,
+    "totalSkillCost": 2994690
+  },
+  {
+    "charaLv": 119,
+    "requireExp": 34481,
+    "totalExp": 1278308,
+    "skillCost": 68860,
+    "totalSkillCost": 3063550
+  },
+  {
+    "charaLv": 120,
+    "requireExp": 34981,
+    "totalExp": 1313289,
+    "skillCost": 69660,
+    "totalSkillCost": 3133210
+  },
+  {
+    "charaLv": 121,
+    "requireExp": 35481,
+    "totalExp": 1348770,
+    "skillCost": 70460,
+    "totalSkillCost": 3203670
+  },
+  {
+    "charaLv": 122,
+    "requireExp": 35981,
+    "totalExp": 1384751,
+    "skillCost": 71260,
+    "totalSkillCost": 3274930
+  },
+  {
+    "charaLv": 123,
+    "requireExp": 36481,
+    "totalExp": 1421232,
+    "skillCost": 72060,
+    "totalSkillCost": 3346990
+  },
+  {
+    "charaLv": 124,
+    "requireExp": 36981,
+    "totalExp": 1458213,
+    "skillCost": 72860,
+    "totalSkillCost": 3419850
+  },
+  {
+    "charaLv": 125,
+    "requireExp": 37481,
+    "totalExp": 1495694,
+    "skillCost": 73660,
+    "totalSkillCost": 3493510
+  },
+  {
+    "charaLv": 126,
+    "requireExp": 37981,
+    "totalExp": 1533675,
+    "skillCost": 74460,
+    "totalSkillCost": 3567970
+  },
+  {
+    "charaLv": 127,
+    "requireExp": 38481,
+    "totalExp": 1572156,
+    "skillCost": 75260,
+    "totalSkillCost": 3643230
+  },
+  {
+    "charaLv": 128,
+    "requireExp": 38981,
+    "totalExp": 1611137,
+    "skillCost": 76060,
+    "totalSkillCost": 3719290
+  },
+  {
+    "charaLv": 129,
+    "requireExp": 39481,
+    "totalExp": 1650618,
+    "skillCost": 76860,
+    "totalSkillCost": 3796150
+  },
+  {
+    "charaLv": 130,
+    "requireExp": 39981,
+    "totalExp": 1690599,
+    "skillCost": 77660,
+    "totalSkillCost": 3873810
+  },
+  {
+    "charaLv": 131,
+    "requireExp": 40481,
+    "totalExp": 1731080,
+    "skillCost": 78460,
+    "totalSkillCost": 3952270
+  },
+  {
+    "charaLv": 132,
+    "requireExp": 40981,
+    "totalExp": 1772061,
+    "skillCost": 79260,
+    "totalSkillCost": 4031530
+  },
+  {
+    "charaLv": 133,
+    "requireExp": 41481,
+    "totalExp": 1813542,
+    "skillCost": 80060,
+    "totalSkillCost": 4111590
+  },
+  {
+    "charaLv": 134,
+    "requireExp": 41981,
+    "totalExp": 1855523,
+    "skillCost": 80860,
+    "totalSkillCost": 4192450
+  },
+  {
+    "charaLv": 135,
+    "requireExp": 42481,
+    "totalExp": 1898004,
+    "skillCost": 81660,
+    "totalSkillCost": 4274110
+  },
+  {
+    "charaLv": 136,
+    "requireExp": 42981,
+    "totalExp": 1940985,
+    "skillCost": 82460,
+    "totalSkillCost": 4356570
+  },
+  {
+    "charaLv": 137,
+    "requireExp": 43481,
+    "totalExp": 1984466,
+    "skillCost": 83260,
+    "totalSkillCost": 4439830
+  },
+  {
+    "charaLv": 138,
+    "requireExp": 43981,
+    "totalExp": 2028447,
+    "skillCost": 84060,
+    "totalSkillCost": 4523890
+  },
+  {
+    "charaLv": 139,
+    "requireExp": 44481,
+    "totalExp": 2072928,
+    "skillCost": 84860,
+    "totalSkillCost": 4608750
+  },
+  {
+    "charaLv": 140,
+    "requireExp": 44981,
+    "totalExp": 2117909,
+    "skillCost": 85660,
+    "totalSkillCost": 4694410
+  },
+  {
+    "charaLv": 141,
+    "requireExp": 45481,
+    "totalExp": 2163390,
+    "skillCost": 86460,
+    "totalSkillCost": 4780870
+  },
+  {
+    "charaLv": 142,
+    "requireExp": 45981,
+    "totalExp": 2209371,
+    "skillCost": 87260,
+    "totalSkillCost": 4868130
+  },
+  {
+    "charaLv": 143,
+    "requireExp": 46481,
+    "totalExp": 2255852,
+    "skillCost": 88060,
+    "totalSkillCost": 4956190
+  },
+  {
+    "charaLv": 144,
+    "requireExp": 46981,
+    "totalExp": 2302833,
+    "skillCost": 88860,
+    "totalSkillCost": 5045050
+  },
+  {
+    "charaLv": 145,
+    "requireExp": 47481,
+    "totalExp": 2350314,
+    "skillCost": 89660,
+    "totalSkillCost": 5134710
+  },
+  {
+    "charaLv": 146,
+    "requireExp": 47981,
+    "totalExp": 2398295,
+    "skillCost": 90460,
+    "totalSkillCost": 5225170
+  },
+  {
+    "charaLv": 147,
+    "requireExp": 48481,
+    "totalExp": 2446776,
+    "skillCost": 91260,
+    "totalSkillCost": 5316430
+  },
+  {
+    "charaLv": 148,
+    "requireExp": 48981,
+    "totalExp": 2495757,
+    "skillCost": 92060,
+    "totalSkillCost": 5408490
+  },
+  {
+    "charaLv": 149,
+    "requireExp": 49481,
+    "totalExp": 2545238,
+    "skillCost": 92860,
+    "totalSkillCost": 5501350
+  },
+  {
+    "charaLv": 150,
+    "requireExp": 49981,
+    "totalExp": 2595219,
+    "skillCost": 93660,
+    "totalSkillCost": 5595010
+  },
+  {
+    "charaLv": 151,
+    "requireExp": 50481,
+    "totalExp": 2645700,
+    "skillCost": 94460,
+    "totalSkillCost": 5689470
+  },
+  {
+    "charaLv": 152,
+    "requireExp": 50981,
+    "totalExp": 2696681,
+    "skillCost": 95260,
+    "totalSkillCost": 5784730
+  },
+  {
+    "charaLv": 153,
+    "requireExp": 51481,
+    "totalExp": 2748162,
+    "skillCost": 96060,
+    "totalSkillCost": 5880790
+  },
+  {
+    "charaLv": 154,
+    "requireExp": 51981,
+    "totalExp": 2800143,
+    "skillCost": 96860,
+    "totalSkillCost": 5977650
+  },
+  {
+    "charaLv": 155,
+    "requireExp": 52481,
+    "totalExp": 2852624,
+    "skillCost": 97660,
+    "totalSkillCost": 6075310
+  },
+  {
+    "charaLv": 156,
+    "requireExp": 52981,
+    "totalExp": 2905605,
+    "skillCost": 98460,
+    "totalSkillCost": 6173770
+  },
+  {
+    "charaLv": 157,
+    "requireExp": 53481,
+    "totalExp": 2959086,
+    "skillCost": 99260,
+    "totalSkillCost": 6273030
+  },
+  {
+    "charaLv": 158,
+    "requireExp": 53981,
+    "totalExp": 3013067,
+    "skillCost": 100060,
+    "totalSkillCost": 6373090
+  },
+  {
+    "charaLv": 159,
+    "requireExp": 54481,
+    "totalExp": 3067548,
+    "skillCost": 100860,
+    "totalSkillCost": 6473950
+  },
+  {
+    "charaLv": 160,
+    "requireExp": 54981,
+    "totalExp": 3122529,
+    "skillCost": 101660,
+    "totalSkillCost": 6575610
+  },
+  {
+    "charaLv": 161,
+    "requireExp": 55481,
+    "totalExp": 3178010,
+    "skillCost": 102460,
+    "totalSkillCost": 6678070
+  },
+  {
+    "charaLv": 162,
+    "requireExp": 55981,
+    "totalExp": 3233991,
+    "skillCost": 103260,
+    "totalSkillCost": 6781330
+  },
+  {
+    "charaLv": 163,
+    "requireExp": 56481,
+    "totalExp": 3290472,
+    "skillCost": 104060,
+    "totalSkillCost": 6885390
+  },
+  {
+    "charaLv": 164,
+    "requireExp": 56981,
+    "totalExp": 3347453,
+    "skillCost": 104860,
+    "totalSkillCost": 6990250
+  },
+  {
+    "charaLv": 165,
+    "requireExp": 57481,
+    "totalExp": 3404934,
+    "skillCost": 105660,
+    "totalSkillCost": 7095910
+  },
+  {
+    "charaLv": 166,
+    "requireExp": 57981,
+    "totalExp": 3462915,
+    "skillCost": 106460,
+    "totalSkillCost": 7202370
+  },
+  {
+    "charaLv": 167,
+    "requireExp": 58481,
+    "totalExp": 3521396,
+    "skillCost": 107260,
+    "totalSkillCost": 7309630
+  },
+  {
+    "charaLv": 168,
+    "requireExp": 58981,
+    "totalExp": 3580377,
+    "skillCost": 108060,
+    "totalSkillCost": 7417690
+  },
+  {
+    "charaLv": 169,
+    "requireExp": 59481,
+    "totalExp": 3639858,
+    "skillCost": 108860,
+    "totalSkillCost": 7526550
+  },
+  {
+    "charaLv": 170,
+    "requireExp": 59981,
+    "totalExp": 3699839,
+    "skillCost": 109660,
+    "totalSkillCost": 7636210
+  },
+  {
+    "charaLv": 171,
+    "requireExp": 60481,
+    "totalExp": 3760320,
+    "skillCost": 110460,
+    "totalSkillCost": 7746670
+  },
+  {
+    "charaLv": 172,
+    "requireExp": 60981,
+    "totalExp": 3821301,
+    "skillCost": 111260,
+    "totalSkillCost": 7857930
+  },
+  {
+    "charaLv": 173,
+    "requireExp": 61481,
+    "totalExp": 3882782,
+    "skillCost": 112060,
+    "totalSkillCost": 7969990
+  }
+]
