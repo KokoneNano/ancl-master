@@ -2662,5 +2662,293 @@
 			"デモングラスソース",
 			"ミルキーヤドカリ"
 		]
+	},
+	{
+		"stage": "N20-1",
+		"stageName": "再び山道口の村",
+		"st": 10,
+		"recommendLv": 100,
+		"dayLimit": 0,
+		"drops": [
+			"コシコシ麺粉",
+			"オークの秘蔵キノコ",
+			"祝い鯛"
+		]
+	},
+	{
+		"stage": "N20-2",
+		"stageName": "再び山道口の村",
+		"st": 10,
+		"recommendLv": 100,
+		"dayLimit": 0,
+		"drops": [
+			"踊り豚ミンチ",
+			"太った鳥の肝",
+			"オリオンオイル"
+		]
+	},
+	{
+		"stage": "N20-3",
+		"stageName": "再び山道口の村",
+		"st": 10,
+		"recommendLv": 100,
+		"dayLimit": 0,
+		"drops": [
+			"カエル黒芋",
+			"おいしいカモ",
+			"高貴ニンジン"
+		]
+	},
+	{
+		"stage": "N20-4",
+		"stageName": "物理がおすすめ",
+		"st": 10,
+		"recommendLv": 100,
+		"dayLimit": 0,
+		"drops": [
+			"タラレバガニ",
+			"まんまるキノコ",
+			"すっごく高そうな赤ワイン"
+		]
+	},
+	{
+		"stage": "N20-5",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 100,
+		"dayLimit": 0,
+		"drops": [
+			"イケてるエビ",
+			"めちゃやわラム肉",
+			"世界樹のカブ"
+		]
+	},
+	{
+		"stage": "N20-6",
+		"stageName": "再び山道口の村",
+		"st": 10,
+		"recommendLv": 100,
+		"dayLimit": 0,
+		"drops": [
+			"地竜の肉",
+			"エイリアンキャトルエピス",
+			"金色コンソメ"
+		]
+	},
+	{
+		"stage": "N20-7",
+		"stageName": "再び山道口の村",
+		"st": 10,
+		"recommendLv": 101,
+		"dayLimit": 0,
+		"drops": [
+			"たわわブドウ",
+			"ミノタウロスの上モモ",
+			"ランカーホワイトバス"
+		]
+	},
+	{
+		"stage": "N20-8",
+		"stageName": "再び山道口の村",
+		"st": 10,
+		"recommendLv": 101,
+		"dayLimit": 0,
+		"drops": [
+			"オークの秘蔵キノコ",
+			"コシコシ麺粉",
+			"ミノタウロスの上モモ"
+		]
+	},
+	{
+		"stage": "N20-9",
+		"stageName": "ボーナスステージ",
+		"st": 10,
+		"recommendLv": 101,
+		"dayLimit": 0,
+		"drops": [
+			"デモングラスソース",
+			"踊り豚ミンチ",
+			"太った鳥の肝"
+		]
+	},
+	{
+		"stage": "N20-10",
+		"stageName": "再び山道口の村",
+		"st": 10,
+		"recommendLv": 101,
+		"dayLimit": 0,
+		"drops": [
+			"金色コンソメ",
+			"カエル黒芋",
+			"めちゃやわラム肉"
+		]
+	},
+	{
+		"stage": "N20-11",
+		"stageName": "再び山道口の村",
+		"st": 10,
+		"recommendLv": 101,
+		"dayLimit": 0,
+		"drops": [
+			"ランカーホワイトバス",
+			"タラレバガニ",
+			"まんまるキノコ"
+		]
+	},
+	{
+		"stage": "N20-12",
+		"stageName": "再び山道口の村",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"パウダースノー小麦粉",
+			"イケてるエビ",
+			"おいしいカモ"
+		]
+	},
+	{
+		"stage": "N21-1",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"万年醤油",
+			"金色コンソメ",
+			"ミノタウロスの上モモ"
+		]
+	},
+	{
+		"stage": "N21-2",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"パリピ小麦",
+			"ランカーホワイトバス",
+			"太った鳥の肝"
+		]
+	},
+	{
+		"stage": "N21-3",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"うまい牛乳",
+			"パウダースノー小麦粉",
+			"おいしいカモ"
+		]
+	},
+	{
+		"stage": "N21-4",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"さっぱり白ワイン",
+			"地竜の肉",
+			"高貴ニンジン"
+		]
+	},
+	{
+		"stage": "N21-5",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"ウルトラ米",
+			"たわわブドウ",
+			"オリオンオイル"
+		]
+	},
+	{
+		"stage": "N21-6",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"コシコシ麺粉",
+			"オークの秘蔵キノコ",
+			"世界樹のカブ"
+		]
+	},
+	{
+		"stage": "N21-7",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"踊り豚ミンチ",
+			"デモングラスソース",
+			"すっごく高そうな赤ワイン"
+		]
+	},
+	{
+		"stage": "N21-8",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"カエル黒芋",
+			"万年醤油",
+			"祝い鯛"
+		]
+	},
+	{
+		"stage": "N21-9",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"タラレバガニ",
+			"パリピ小麦",
+			"地竜の肉"
+		]
+	},
+	{
+		"stage": "N21-10",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"イケてるエビ",
+			"うまい牛乳",
+			"たわわブドウ"
+		]
+	},
+	{
+		"stage": "N21-11",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 102,
+		"dayLimit": 0,
+		"drops": [
+			"めちゃやわラム肉",
+			"さっぱり白ワイン",
+			"オークの秘蔵キノコ"
+		]
+	},
+	{
+		"stage": "N21-12",
+		"stageName": "ゴートウルフ中央港",
+		"st": 10,
+		"recommendLv": 103,
+		"dayLimit": 0,
+		"drops": [
+			"エイリアンキャトルエピス",
+			"ウルトラ米",
+			"デモングラスソース"
+		]
 	}
 ]
